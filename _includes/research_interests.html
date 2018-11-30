@@ -8,13 +8,9 @@
 
   <ul class="list-unstyled research_interests-list">
     {% for research_interest in research_interests %}
-
-      {% if research_interest.link %}
-      <li><a href="{{ research_interest.link }}">{{ research_interest.item }}</a></li>
-      {% else %}
-      <li>{{ research_interest.item }}</li>
-      {% endif %}
-
+    <li>
+      {{ research_interest.item }}
+    </li>
     {% endfor %}
   </ul>
 
