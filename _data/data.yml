@@ -25,10 +25,10 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     research_interests:
-      - item: Cooking <br>
-      - item: Guitar <br>
-      - item: Driving <br>
-      - item: Driving2 <br>
+      - item: Cooking
+      - item: Guitar
+      - item: Driving1
+      - item: Driving2
       - item: Driving3
 
     languages:
