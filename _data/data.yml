@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Eunhan Ka
@@ -16,7 +16,7 @@ sidebar:
     phone: +82-10-4925-7793
     website: eunhanka.github.io #do not add http://
     linkedin: #kaeunhan
-    github: 
+    github:
     gitlab:
     bitbucket:
     twitter: #'@webjeda'
@@ -26,10 +26,10 @@ sidebar:
 
     languages:
       - idiom: Korean
-        level: Native
+#        level: Native
 
       - idiom: English
-        level: Intermediate
+#        level: Intermediate
 
 #      - idiom: Spanish
 #        level: Professional
