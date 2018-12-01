@@ -137,7 +137,7 @@ awards:
       time: Jun. 2013
       company: The 6th Science and Technology Writing Excellent Research Paper Presentation Competition, College of Engineering, Seoul National University
       details: |
-        <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>        
+        <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>
 
 projects:
     title: Projects
@@ -176,39 +176,28 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
+        authors: Dongmin Lee, Sooncheon Hwang, Eunhan Ka, Chungwon Lee (corresponding)
+        conference: Journal of Advanced Transportation (2018)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: MATLAB
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Java (w/ CPLEX) & Python (w/Tensorflow)
         level: 60%
+
+      - name: SPSS & NLOGIT
+        level: 50%
+
+      - name: VISSIM
+        level: 40%
 
 footer: >
     Copyright (c) 2018 webjeda
