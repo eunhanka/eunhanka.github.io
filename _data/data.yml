@@ -25,11 +25,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     research_interests:
-      - item: Cooking
-      - item: Guitar
-      - item: Driving1
-      - item: Driving2
-      - item: Driving3
+      - item: Network Modeling
+      - item: Emerging Transportation Systems
+      - item: Urban Mobility
+      - item: Traveler Behavior
+      - item: Data Minining Techniques
 
     languages:
       - idiom: Korean
