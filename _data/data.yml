@@ -52,7 +52,9 @@ education:
       university: Seoul National University
       time: 2016 - 2018
       details: |
-        Courses: Advanced Transportation Operations (Traffic Flow Theory)
+        Courses: Advanced Transportation Operations (Traffic Flow Theory), Transportation Optimization Techniques,
+        Advanced Sustainable Transportation (Traffic Management), Transportation Network Theory,
+        Operation Research II, 
 
           - Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time
           - Advisor: Prof. Chungwon Lee
