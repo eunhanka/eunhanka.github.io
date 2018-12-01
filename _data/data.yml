@@ -48,16 +48,16 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Civil and Environmental Engineering
-      university: Seoul National University
+    - degree: <font-weight: 700>MSc in Civil and Environmental Engineering</font>
+      university: <font-weight: 700>Seoul National University</font>
       time: 2016 - 2018
       details: |
-        <p>Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</p> <br>
-        Advisor: Prof. Chungwon Lee <br>
-        Courses: <br>
+        <p>Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</p>
+        <p>Advisor: Prof. Chungwon Lee</p>
+        <p>Courses: <br>
         Advanced Transportation Operations (Traffic Flow Theory), Advanced Transportation Operations (Transportation Systems Analysis)
         Advanced Sustainable Transportation (Traffic Management), Data Mining, Operations Research II
-        Transportation Optimization Techniques, Transportation Network Theory, Transportation IT Convergence System
+        Transportation Optimization Techniques, Transportation Network Theory, Transportation IT Convergence System</p>
 
 
     - degree: BSc in Civil and Environmental Engineering
