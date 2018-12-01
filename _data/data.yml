@@ -71,7 +71,6 @@ education:
         Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
 experiences:
-    asdfjj
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
@@ -102,18 +101,6 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 projects:
     title: Projects
@@ -142,6 +129,8 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+      intro: asdflkj 
 
 publications:
     title: Publications
