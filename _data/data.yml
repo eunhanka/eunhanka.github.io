@@ -71,7 +71,7 @@ education:
         Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
 experiences:
-    - asdf
+    - type: asdf
       role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
