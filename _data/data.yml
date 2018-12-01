@@ -182,23 +182,17 @@ publications:
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: R
         level: 95%
-
       - name: MATLAB
         level: 85%
-
       - name: Python (w/ Tensorflow)
         level: 80%
-
       - name: Java (w/ CPLEX)
         level: 70%
-
       - name: SPSS & NLOGIT
         level: 60%
-
       - name: VISSIM
         level: 50%
 
