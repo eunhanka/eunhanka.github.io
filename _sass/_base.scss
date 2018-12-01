@@ -30,7 +30,7 @@ p {
 
 .wrapper {
     background:$theme-color;
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 0 auto;
     position: relative;
     @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
@@ -40,7 +40,7 @@ p {
     background: $theme-color;
     position: absolute;
     right: 0;
-    width: 280px;
+    width: 320px;
     height: 100%;
     min-height: 800px;
     color: #fff;
@@ -63,7 +63,7 @@ p {
     .tagline {
         color: rgba(256, 256, 256, 0.6);
         font-size: 16px;
-        font-weight: 900;
+        font-weight: 400;
         margin-top: 10px;
         margin-bottom: 0;
     }
