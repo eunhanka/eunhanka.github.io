@@ -93,18 +93,25 @@ research_experiences:
         (Korea Transport Institute, Korea Transportation Safety Authority, InnoSim)</p>
 
 experiences:
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Mentor, SNU Youth Engineering Frontier Camp
+      time: 2017 - 2018
+      company: College of Engineering, Seoul National University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        <p>Introduced traffic engineering to high school students and taught basic traffic flow theory using highway detector data</p>
+        <p>Advised the students in preparation for admission to a university and consulted with the students about difficulties in high school life.</p>
 
-          - Bullet point
-          - Bullet point
+    - role: Teaching Assistant (Prof. Chungwon Lee)
+      time: 2016 - 2017
+      company: College of Engineering, Seoul National University
+      details: |
+        <p>Assisted in teaching, grading and preparing course material for core subjects of transportation in undergraduate and graduate program</p>
+        <p>Supervised undergraduate student projects and team activities around collecting and analyzing data,
+        and designing future transportation system in campus</p>
+        Course: <br>
+          - Sustainable Transportation Systems 		      (Fall 2017, Undergraduate)
+          - Advanced Transportation Operation 		      (Spring 2017, Graduate)
+          - Leadership for Civil Engineers 		          (Spring 2017, Undergraduate)
+          - Introduction to Transportation Engineering 	(Fall 2016, Undergraduate)
 
 projects:
     title: Projects
