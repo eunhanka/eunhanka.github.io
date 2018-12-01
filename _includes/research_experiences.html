@@ -1,0 +1,36 @@
+{% assign research_experiencess = site.data.data.research_experiencess %}
+{% if research_experiencess %}
+<section class="section research_experiencess-section">
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+    </span>
+    Research Experiences
+  </h2>
+
+  {% for research_experiences in research_experiencess %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ research_experiences.role }}</h3>
+        <div class="time">{{ research_experiences.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ research_experiences.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if research_experiences.details %}
+    <div class="details">
+      {{ research_experiences.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
