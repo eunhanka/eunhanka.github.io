@@ -190,7 +190,7 @@ skills:
       - name: MATLAB
         level: 85%
 
-      - name: Python (w/Tensorflow)
+      - name: Python (w/ Tensorflow)
         level: 80%
 
       - name: Java (w/ CPLEX)
