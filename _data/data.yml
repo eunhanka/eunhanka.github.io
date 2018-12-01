@@ -71,7 +71,6 @@ education:
         Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
 research_experiences:
-    title: Research Experience
     - role: Lead Developernew
       time: 2015 - Present
       company: Startup Hubs, San Francisco
@@ -88,9 +87,8 @@ research_experiences:
 
           - Bullet point
           - Bullet point
-          
+
 experiences:
-    title: Teaching Experience
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
