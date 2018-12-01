@@ -71,41 +71,28 @@ education:
         Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
 research_experiences:
-    - role: Lead Developernew
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Researcher
+      time: 2018 - Present
+      company: Institute of Construction and Environmental Engineering, Seoul National University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        <p>Lead a study on developing optimal operation strategy of Mobility-as-a-Service (MaaS) for the mobility impaired</p>
+        <p>Contribute to preparing grant applications and proposals for government-funded research projects</p>
+        <p>Collaborate and coordinate with faculty, businessman, researchers, fellow graduate students
+        for preparing project proposals across institutes (University of Seoul, Radius Corporation, Korea Land & Housing Institute)</p>
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+
+    - role: Graduate Research Assistant
+      time: 2016 - 2017
+      company: Department of Civil and Environmental Engineering, Seoul National University
+      details: |
+        <p>Designed real-time based relocation strategy for car-sharing and developed event-based simulation for car-sharing system</p>
+        <p>Led a study on improving dial-a-rid service for the disabled with shared mobility in Seoul and a study on
+        developing evaluation method to evaluate driver behavior with surrogate safety measures</p>
+        <p>Collaborated and coordinated with faculty, businessman, researchers across institutes
+        (Korea Transport Institute, Korea Transportation Safety Authority, InnoSim)</p>
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
-
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
