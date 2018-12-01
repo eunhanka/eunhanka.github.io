@@ -48,31 +48,22 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Civil and Environmental Engineering
+      university: Seoul National University
+      time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Courses: Advanced Transportation Operations (Traffic Flow Theory)
 
-          - Bullet point
-          - Bullet point
+          - Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time
+          - Advisor: Prof. Chungwon Lee
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Civil and Environmental Engineering
+      university: Seoul National University
+      time: 2008 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Courses:
 
-          - Bullet point
-          - Bullet point
+          - Advisor: Prof. Chungwon Lee
 
 experiences:
     - role: Lead Developer
