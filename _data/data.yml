@@ -67,7 +67,7 @@ education:
         <p>Courses: <br>
         Calculus I & II, Design of Transportation Systems, Digital Computer Concept and Practice, Engineering Mathematics I & II,
         Introduction to Economics, Introduction to Traffic Operation, Mass Transit Engineering, Microeconomics,
-        Operations Research I, Principles of Economics II, Spatial Informatics and Systems, Statistics,
+        Operations Research I, Principles of Economics I & II, Spatial Informatics and Systems, Statistics,
         Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
 research_experiences:
@@ -83,7 +83,7 @@ research_experiences:
 #          - Bullet point
 
     - role: Graduate Research Assistant
-      time: 2016 - 2017
+      time: 2016 - 2018
       company: Department of Civil and Environmental Engineering, Seoul National University
       details: |
         <p>Designed real-time based relocation strategy for car-sharing and developed event-based simulation for car-sharing system</p>
@@ -107,7 +107,7 @@ experiences:
         <p>Assisted in teaching, grading and preparing course material for core subjects of transportation in undergraduate and graduate program</p>
         <p>Supervised undergraduate student projects and team activities around collecting and analyzing data,
         and designing future transportation system in campus</p>
-        Course: <br>
+        Course:
           - Sustainable Transportation Systems 		      (Fall 2017, Undergraduate)
           - Advanced Transportation Operation 		      (Spring 2017, Graduate)
           - Leadership for Civil Engineers 		          (Spring 2017, Undergraduate)
