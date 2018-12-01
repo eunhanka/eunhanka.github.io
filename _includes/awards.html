@@ -6,7 +6,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
     </span>
-    Awards & Honors
+    Teaching & Mentoring award
   </h2>
 
   {% for award in awards %}
@@ -15,11 +15,11 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="name">{{ award.name }}</h3>
+        <h3 class="job-title">{{ award.role }}</h3>
         <div class="time">{{ award.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="where">{{ award.where }}</div>
+      <div class="company">{{ award.company }}</div>
 
     </div><!--//meta-->
 
