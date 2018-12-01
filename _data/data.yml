@@ -8,7 +8,8 @@ sidebar:
 
     # Profile information
     name: Eunhan Ka
-    tagline: <strong> Researcher </strong> <br><br> Institute of Construction and Environmental Engineering, <br> Seoul National University
+    tagline: Researcher
+    tagline2: Institute of Construction and Environmental Engineering <br> (Seoul National University)
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
