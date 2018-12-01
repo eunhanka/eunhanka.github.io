@@ -52,13 +52,14 @@ education:
       university: Seoul National University
       time: 2016 - 2018
       details: |
+        Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time <br>
+        Advisor: Prof. Chungwon Lee <br>
+        margin-top: 8px;
         Courses: <br>
         Advanced Transportation Operations (Traffic Flow Theory), Advanced Transportation Operations (Transportation Systems Analysis)
         Advanced Sustainable Transportation (Traffic Management), Data Mining, Operations Research II
         Transportation Optimization Techniques, Transportation Network Theory, Transportation IT Convergence System
 
-          - Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time
-          - Advisor: Prof. Chungwon Lee
 
     - degree: BSc in Civil and Environmental Engineering
       university: Seoul National University
