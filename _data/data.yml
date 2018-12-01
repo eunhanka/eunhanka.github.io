@@ -113,6 +113,13 @@ experiences:
           - Leadership for Civil Engineers 		          (Spring 2017, Undergraduate)
           - Introduction to Transportation Engineering 	(Fall 2016, Undergraduate)
 
+awards:
+    - name: Outstanding Paper Award
+      time: Mar. 2018
+      where: The 78th Conference of Korean Society of Transportation, Korea Society of Transportation
+      details: |
+        <p>Title:  Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Disabled in Seoul using Long Short-Term Memory (LSTM) Network</p>
+
 projects:
     title: Projects
     intro: >
