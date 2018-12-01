@@ -59,18 +59,16 @@ education:
         Advanced Sustainable Transportation (Traffic Management), Data Mining, Operations Research II
         Transportation Optimization Techniques, Transportation Network Theory, Transportation IT Convergence System</p>
 
-
     - degree: BSc in Civil and Environmental Engineering
       university: Seoul National University
       time: 2008 - 2016
       details: |
-        Courses: <br>
-        Urban Planning, Traffic Engineering and Lab., Introduction to Economics, Spatial Informatics and Systems,
-        Principles of Economics II, Mass Transit Engineering, Design of Transportation Systems, Calculus I & II,
-        Transportation Planning and Lab., Engineering Mathematics I & II, Introduction to Traffic Operation,
-        Statistics, Digital Computer Concept and Practice, Operations Research I, Microeconomics, Statistics for Civil & Environmental Engineers
-
-          - Advisor: Prof. Chungwon Lee
+        <p>Advisor: Prof. Chungwon Lee</p>
+        <p>Courses: <br>
+        Calculus I & II, Design of Transportation Systems, Digital Computer Concept and Practice, Engineering Mathematics I & II,
+        Introduction to Economics, Introduction to Traffic Operation, Mass Transit Engineering, Microeconomics,
+        Operations Research I, Principles of Economics II, Spatial Informatics and Systems, Statistics,
+        Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
 experiences:
     - role: Lead Developer
