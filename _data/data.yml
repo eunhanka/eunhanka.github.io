@@ -188,16 +188,19 @@ skills:
         level: 90%
 
       - name: MATLAB
+        level: 85%
+
+      - name: Python (w/Tensorflow)
         level: 80%
 
-      - name: Java (w/ CPLEX) & Python (w/Tensorflow)
-        level: 60%
+      - name: Java (w/ CPLEX)
+        level: 70%
 
       - name: SPSS & NLOGIT
-        level: 50%
+        level: 60%
 
       - name: VISSIM
-        level: 40%
+        level: 50%
 
 footer: >
     Copyright (c) 2018 webjeda
