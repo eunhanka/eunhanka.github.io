@@ -1,0 +1,28 @@
+{% assign review_publications = site.data.data.review_publications %}
+{% if review_publications %}
+<section class="section review_publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ review_publications.title }}
+  </h2>
+
+  {% if review_publications.intro %}
+  <div class="intro">
+    {{ review_publications.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for review_publication in review_publications.papers %}
+  <div class="item">
+    <div class="review_publication-title">{{ review_publication.title }}</div>
+    <div class="review_publication-authors">{{ review_publication.authors }}</div>
+    <div class="review_publication-conference">{{ review_publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
