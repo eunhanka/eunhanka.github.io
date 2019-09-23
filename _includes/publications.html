@@ -11,23 +11,6 @@
     {{ publications.title }}
   </h2>
   
-  <h2 class="section-title2">
-    <span class="fa-stack fa-1.5x">
-      <i class="fas fa-circle fa-stack-1x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ publications.title2 }}
-  </h2>
-  
-  
-  <h2 class="section-title3">
-    <span class="fa-stack fa-1.5x">
-      <i class="fas fa-circle fa-stack-1x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ publications.title3 }}
-  </h2>
-  
   {% if publications.intro %}
   <div class="intro">
     {{ publications.intro | markdownify }}
@@ -39,34 +22,12 @@
     {{ publications.intro2 | markdownify }}
   </div><!--//intro2-->
   {% endif %}
-  
-  {% if publications.intro3 %}
-  <div class="intro3">
-    {{ publications.intro3 | markdownify }}
-  </div><!--//intro3-->
-  {% endif %}
 
   {% for publication in publications.papers %}
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
-  </div><!--//item-->
-  {% endfor %}
-
-  {% for publication in publications.papers2 %}
-  <div class="item">
-    <div class="publication-title2">{{ publication.title2 }}</div>
-    <div class="publication-authors2">{{ publication.authors2 }}</div>
-    <div class="publication-conference2">{{ publication.conference2 }}</div>
-  </div><!--//item-->
-  {% endfor %}
-
-  {% for publication in publications.papers3 %}
-  <div class="item">
-    <div class="publication-title3">{{ publication.title3 }}</div>
-    <div class="publication-authors3">{{ publication.authors3 }}</div>
-    <div class="publication-conference3">{{ publication.conference3 }}</div>
   </div><!--//item-->
   {% endfor %}
   
