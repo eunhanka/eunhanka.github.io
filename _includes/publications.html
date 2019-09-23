@@ -2,7 +2,6 @@
 {% if publications %}
 <section class="section publications-section">
  
-
   <h2 class="section-title">
     <span class="fa-stack fa-1.5x">
       <i class="fas fa-circle fa-stack-1x"></i>
@@ -15,12 +14,6 @@
   <div class="intro">
     {{ publications.intro | markdownify }}
   </div><!--//intro-->
-  {% endif %}
-  
-  {% if publications.intro2 %}
-  <div class="intro2">
-    {{ publications.intro2 | markdownify }}
-  </div><!--//intro2-->
   {% endif %}
 
   {% for publication in publications.papers %}
