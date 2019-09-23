@@ -136,7 +136,8 @@ awards:
       details: |
         <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>
 
-<!--
+
+/*
 projects:
     title: Projects
     intro: >
@@ -163,7 +164,9 @@ projects:
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps" -->
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+*/
+
 
 
 publications:
