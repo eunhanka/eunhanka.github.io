@@ -139,15 +139,15 @@ awards:
 publications:
     title: Publications - Refereed Journal Publications
     intro: |
+    Refereed Journal
 
     papers:
       - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
         authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee
         conference: Journal of Advanced Transportation (2018)
 
-conference_publications:
-    title: Publications - Refereed Conference Publications
-    intro: |
+    intro2: |
+    Refereed conference
 
     papers:
       - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
