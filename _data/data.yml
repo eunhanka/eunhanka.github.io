@@ -136,6 +136,7 @@ awards:
       details: |
         <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>
 
+<!--
 projects:
     title: Projects
     intro: >
@@ -162,13 +163,12 @@ projects:
 
       - title: Delta
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps" -->
 
 
 publications:
-    title: Journal Publications
+    title: Publications - Refereed Journal Publications
     intro: |
-      <p><b> Refereed Journal Publications </b></p>
 
     papers:
       - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
