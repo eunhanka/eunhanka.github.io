@@ -70,7 +70,7 @@ education:
 research_experiences:
     - role: Researcher
       time: 2018 - Present
-      company: Institute of Construction and Environmental Engineering, Seoul National University
+      company: <i>Institute of Construction and Environmental Engineering, Seoul National University</i>
       details: |
         <p>Lead a study on developing optimal operation strategy of Mobility-as-a-Service (MaaS) for the mobility impaired</p>
         <p>Design a behavioral choice model of the use of a shared parking and shared mobility services</p>
@@ -81,7 +81,7 @@ research_experiences:
 
     - role: Graduate Research Assistant
       time: 2016 - 2018
-      company: Department of Civil and Environmental Engineering, Seoul National University
+      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
         <p>Designed real-time based relocation strategy for car-sharing and developed event-based simulation for car-sharing system</p>
         <p>Led a study on improving dial-a-rid service for the disabled with shared mobility in Seoul and a study on
@@ -92,14 +92,14 @@ research_experiences:
 experiences:
     - role: Mentor, SNU Youth Engineering Frontier Camp
       time: 2017 - 2018
-      company: College of Engineering, Seoul National University
+      company: <i>College of Engineering, Seoul National University</i>
       details: |
         <p>Introduced traffic engineering to high school students and taught basic traffic flow theory using highway detector data</p>
         <p>Advised the students in preparation for admission to a university and consulted with the students about difficulties in high school life.</p>
 
     - role: Teaching Assistant (Prof. Chungwon Lee)
       time: 2016 - 2017
-      company: College of Engineering, Seoul National University
+      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
         <p>Assisted in teaching, grading and preparing course material for core subjects of transportation in undergraduate and graduate program</p>
         <p>Supervised undergraduate student projects and team activities around collecting and analyzing data,
