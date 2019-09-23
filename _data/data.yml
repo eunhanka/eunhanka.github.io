@@ -139,7 +139,7 @@ awards:
 publications:
     title: Publications - Refereed Journal Publications
     intro: |
-    Refereed Journal
+    <p> Refereed Journal </p>
 
     papers:
       - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
@@ -147,7 +147,7 @@ publications:
         conference: Journal of Advanced Transportation (2018)
 
     intro2: |
-    Refereed conference
+    <p> Refereed Conference </p>
 
     papers:
       - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
