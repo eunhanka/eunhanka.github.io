@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Eunhan Ka
-    tagline: Researcher <p>[CV](./CV_Eunhan.pdf)</p>
+    tagline: Researcher
     tagline2: Institute of Construction and Environmental Engineering, <br> Seoul National University
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -35,7 +35,7 @@ sidebar:
     languages:
       - idiom: Korean
       - idiom: English
-      - idiom: <br><br><br> Last updated September 22, 2019
+      - idiom: <br> <p>[CV](./CV_Eunhan.pdf)</p> <br><br> Last updated September 22, 2019
 
 
 
