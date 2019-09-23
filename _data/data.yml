@@ -10,10 +10,11 @@ sidebar:
     name: Eunhan Ka
     tagline: Researcher
     tagline2: Institute of Construction and Environmental Engineering, <br> Seoul National University
+    tagline3: [CV](./CV_Eunhan.pdf)
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kaeunhan@snu.ac.kr <br> [CV](./CV_Eunhan.pdf)
+    email: kaeunhan@snu.ac.kr 
     phone: +82-10-4925-7793
     website: eunhanka.github.io #do not add http://
     linkedin: #kaeunhan
@@ -35,20 +36,16 @@ sidebar:
     languages:
       - idiom: Korean
       - idiom: English
-      - idiom: <br> Last updated September 22, 2019
+      - idiom: <br><br><br> Last updated September 22, 2019
 
 
 
 career-profile:
     title: Research Interests
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. 
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      <b>Mobility Service</b>: Developing the real-time operation strategy of mobility services (such as car-sharing, bike-sharing, and ridesharing) in uncertain and dynamic conditions
+      <b>Network Modeling</b>: Developing the solution technique to improve efficiency and resilience of transportation networks (such as public transit, infrastructure, and logistics) in uncertain and unpredictable conditions 
+      <b>User Behavior</b>: Identifying characteristics of transportation user’s behavior (such as shortest path algorithm, mode choice, and driving behavior)
 
 education:
     - degree: MSc in Civil and Environmental Engineering
