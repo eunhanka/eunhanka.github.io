@@ -221,7 +221,7 @@ p {
     }
 
     .publication-title {
-        font-size: 12px;
+        font-size: 14px;
         font-weight: 400;
         color: $text-color;
         margin-bottom: 1px;
@@ -239,26 +239,7 @@ p {
             margin-bottom: 15px;
         }
     }
-    
-    .publication-title2 {
-        font-size: 12px;
-        font-weight: 400;
-        color: $text-color;
-        margin-bottom: 1px;
-    }
-    .publication-authors2 {
-        font-style: italic;
-        color: $text-grey;
-        margin-bottom: 1px;
-    }
-    .publications-section2 {
-        .intro2 {
-            margin-bottom: 30px;
-        }
-        .item2 {
-            margin-bottom: 15px;
-        }
-    }
+
 }
 
 
