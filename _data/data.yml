@@ -179,9 +179,9 @@ publications:
       <p><b> Refereed Conference Proceedings </b></p>
 
     papers2:
-      - title: Analysis of Status in DRT Service for the Disabled in Seoul and Comparison Domestic and Foreign Cases
-        authors: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
-        conference: International Conference for Road Engineers, South Korea (2018)
+      - title2: Analysis of Status in DRT Service for the Disabled in Seoul and Comparison Domestic and Foreign Cases
+        authors2: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
+        conference2: International Conference for Road Engineers, South Korea (2018)
 
       - title2: Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Dsiabled in Seoul Using Long Short-Term Memory (LSTM) Network
         authors2: Doosun Hong, <b>Eunhan Ka</b>, Sunghyun Ha, Chungwon Lee
