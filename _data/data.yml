@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Eunhan Ka <br> [CV](./CV_Eunhan.pdf)
+    name: Eunhan Ka
     tagline: Researcher
     tagline2: Institute of Construction and Environmental Engineering, <br> Seoul National University
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
@@ -37,6 +37,8 @@ sidebar:
       - idiom: English
       <br><br><br>
       - idiom: Last updated September 22, 2019
+
+[CV](./CV_Eunhan.pdf)
 
 career-profile:
     title: Research Interests
