@@ -165,8 +165,8 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
-publications:
-    title: Publications
+journal_publications:
+    title: Journal Publications
     intro: |
       <p><b> Refereed Journal Publications </b></p>
 
@@ -174,11 +174,13 @@ publications:
       - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
         authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee
         conference: Journal of Advanced Transportation (2018)
-    
+
+
+publications:
     title2: Publications2
     intro2: |
       <p><b> Refereed Conference Proceedings </b></p>
-
+      
     papers2:
       - title2: Analysis of Status in DRT Service for the Disabled in Seoul and Comparison Domestic and Foreign Cases
         authors2: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
