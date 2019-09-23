@@ -26,29 +26,4 @@
   
 </section><!--//section-->
 
-<section class="section publications-section2">
-
-  <h2 class="section-title2">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ publications.title2 }}
-  </h2>
-
-  {% if publications.intro2 %}
-  <div class="intro2">
-    {{ publications.intro2 | markdownify }}
-  </div><!--//intro2-->
-  {% endif %}
-
-  {% for publication in publications.papers2 %}
-  <div class="item2">
-    <div class="publication-title2">{{ publication.title2 }}</div>
-    <div class="publication-authors2">{{ publication.authors2 }}</div>
-    <div class="publication-conference2">{{ publication.conference2 }}</div>
-  </div><!--//item2-->
-  {% endfor %}
-  
-</section><!--//section-->
 {% endif %}
