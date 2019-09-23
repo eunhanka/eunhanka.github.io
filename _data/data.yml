@@ -150,47 +150,6 @@ con_publications:
     title: Publications (Conference Proceeding)
     intro: |
 
-    papers:
-      - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
-        authors: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
-        conference: International Conference for Road Engineers, South Korea (2018)
-
-      - title: Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Dsiabled in Seoul Using Long Short-Term Memory (LSTM) Network
-        authors: Doosun Hong, <b>Eunhan Ka</b>, Sunghyun Ha, Chungwon Lee
-        conference: The 78th Korean Society of Transportation Conference, South Korea (2018)
-
-      - title: Application of Deep Learning for Demand Forecasting of Call Taxi for the Handicapped in Seoul
-        authors: <b>Eunhan Ka</b>, Sunghyun Ha, Jooneui Hong, Chungwon Lee
-        conference: The 77th Korean Society of Transportation Conference, South Korea (2017)
-        
-      - title: A Preliminary Study of Comparison with Lane Changing Model Parameters in Merging Area between Normal and Raining Conditions
-        authors: <b>Eunhan Ka</b>, Sunho Kim, Jooneui Hong, Chungwon Lee
-        conference: The 12th International Conference of Eastern Asia's Society for Transportation Studies (EASTS), Vietnam (2017)
-      
-       - title: The Importance of Demand Prediction for Vehicle Relocation Strategy Development in One-way Car-sharing System
-        authors: <b>Eunhan Ka</b>, Dongjoon Woo, Chungwon Lee
-        conference: The Third International Conference on Computational Science and Engineering, Vietnam (2016)
-        
-       - title: An Estimation of Critical Gap for Gap Acceptance Model Applied to Lane Change of Surrounding Vehicles in Driving Simulator
-        authors: <b>Eunhan Ka</b>, Sunho Kim, Dongjoon Woo, Chungwon Lee
-        conference: The 2016 Fall Korea Institute of ITS Conference, South Korea (2016)
-         
-       - title: Comparison of Survival Model of Traffic Flow Deterioration due to Traffic Accident according to VDS Aggregation Level
-        authors: <b>Eunhan Ka</b>, Sanghyup Lee, Jaeyoung Lee, Chungwon Lee
-        conference: The 75th Korean Society of Transportation Conference, South Korea (2016)
-                
-       - title: Analysis of Traffic Flow Impacts of Highway Traffic Accidents Using Survival Analysis
-        authors: Sanghyup Lee, Hyunkyung Lee, Jaeyoung Lee, <b>Eunhan Ka</b>, Chungwon Lee
-        conference: The 74th Korean Society of Transportation Conference, South Korea (2016)
-        
-      - title: A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
-        authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
-        conference: 99th Annual Meeting of the Transportation Research Board, United States
-        <br><br><p><i>Currently Under Review</i></p><br>
-
-      - title: Implementing Surrogate Safety Measures to Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Aggressive Driving Behaviors
-        authors: <b>Eunhan Ka</b>, Dokyeong Kim, Jooneui Hong, Chungwon Lee
-        conference: 99th Annual Meeting of the Transportation Research Board, United States
         
 skills:
     title: Skills &amp; Proficiency
