@@ -1,7 +1,9 @@
 {% assign publications = site.data.data.publications %}
 {% if publications %}
 <section class="section publications-section">
-
+<section class="section publications-section2">
+<section class="section publications-section3">
+  
   <h2 class="section-title">
     <span class="fa-stack fa-1.5x">
       <i class="fas fa-circle fa-stack-1x"></i>
@@ -63,9 +65,9 @@
 
   {% for publication in publications.papers2 %}
   <div class="item">
-    <div class="publication-title">{{ publication.title2 }}</div>
-    <div class="publication-authors">{{ publication.authors2 }}</div>
-    <div class="publication-conference">{{ publication.conference2 }}</div>
+    <div class="publication-title2">{{ publication.title2 }}</div>
+    <div class="publication-authors2">{{ publication.authors2 }}</div>
+    <div class="publication-conference2">{{ publication.conference2 }}</div>
   </div><!--//item-->
   {% endfor %}
 
