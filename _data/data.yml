@@ -35,6 +35,8 @@ sidebar:
     languages:
       - idiom: Korean
       - idiom: English
+      
+      - idiom: Last updated September 22, 2019
 
 career-profile:
     title: Research Interests
@@ -55,8 +57,8 @@ education:
         <p>Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</p>
         <p>Advisor: Prof. Chungwon Lee</p>
         <p>Courses: <br>
-        Advanced Transportation Operations (Traffic Flow Theory), Advanced Transportation Operations (Transportation Systems Analysis)
-        Advanced Sustainable Transportation (Traffic Management), Data Mining, Operations Research II
+        Advanced Transportation Operations (Traffic Flow Theory), Advanced Transportation Operations (Transportation Systems Analysis),
+        Advanced Sustainable Transportation (Traffic Management), Data Mining, Operations Research II,
         Transportation Optimization Techniques, Transportation Network Theory, Transportation IT Convergence System</p>
 
     - degree: BSc in Civil and Environmental Engineering
@@ -76,7 +78,7 @@ research_experiences:
       company: Institute of Construction and Environmental Engineering, Seoul National University
       details: |
         <p>Lead a study on developing optimal operation strategy of Mobility-as-a-Service (MaaS) for the mobility impaired</p>
-        <p>Contribute to preparing grant applications and proposals for government-funded research projects</p>
+        <p>Design a behavioral choice model of the use of a shared parking and shared mobility services</p>
         <p>Collaborate and coordinate with faculty, businessman, researchers, fellow graduate students
         for preparing project proposals across institutes (University of Seoul, Radius Corporation, Korea Land & Housing Institute)</p>
 
