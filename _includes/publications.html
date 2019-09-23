@@ -21,6 +21,12 @@
     {{ publications.intro2 | markdownify }}
   </div><!--//intro2-->
   {% endif %}
+  
+  {% if publications.intro3 %}
+  <div class="intro2">
+    {{ publications.intro2 | markdownify }}
+  </div><!--//intro2-->
+  {% endif %}
 
   {% for publication in publications.papers %}
   <div class="item">
@@ -31,6 +37,14 @@
   {% endfor %}
 
   {% for publication in publications.papers2 %}
+  <div class="item">
+    <div class="publication-title">{{ publication.title }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+  {% for publication in publications.papers3 %}
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
