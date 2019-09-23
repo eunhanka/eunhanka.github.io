@@ -150,13 +150,13 @@ publications:
       <p> Refereed Conference </p>
 
     papers2:
-      - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
-        authors: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
-        conference: International Conference for Road Engineers, South Korea (2018)
+      - title2: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
+        authors2: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
+        conference2: International Conference for Road Engineers, South Korea (2018)
 
-      - title: Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Dsiabled in Seoul Using Long Short-Term Memory (LSTM) Network
-        authors: Doosun Hong, <b>Eunhan Ka</b>, Sunghyun Ha, Chungwon Lee
-        conference: The 78th Korean Society of Transportation Conference, South Korea (2018)
+      - title2: Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Dsiabled in Seoul Using Long Short-Term Memory (LSTM) Network
+        authors2: Doosun Hong, <b>Eunhan Ka</b>, Sunghyun Ha, Chungwon Lee
+        conference2: The 78th Korean Society of Transportation Conference, South Korea (2018)
 
       - title: Application of Deep Learning for Demand Forecasting of Call Taxi for the Handicapped in Seoul
         authors: <b>Eunhan Ka</b>, Sunghyun Ha, Jooneui Hong, Chungwon Lee
