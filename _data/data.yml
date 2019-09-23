@@ -35,9 +35,12 @@ sidebar:
     languages:
       - idiom: Korean
       - idiom: English
-      - idiom: <br> <p>[CV](./CV_Eunhan.pdf)</p> <br><br> Last updated September 22, 2019
+      - idiom: <br> <br><br> Last updated September 22, 2019
 
-
+career-profile:
+    title: Curriculum Vitae
+    summary: |
+      <p>This is my curriculum vitae [CV](./CV_Eunhan.pdf)</p>
 
 career-profile:
     title: Research Interests
