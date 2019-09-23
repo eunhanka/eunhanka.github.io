@@ -113,26 +113,26 @@ experiences:
 awards:
     - role: Outstanding Paper Award
       time: Mar. 2018
-      company: The 78th Conference of Korean Society of Transportation, Korea Society of Transportation
+      company: <i>The 78th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
       details: |
         <p>Title: Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport
         for the Disabled in Seoul using Long Short-Term Memory (LSTM) Network</p>
 
     - role: Outstanding Paper Award
       time: Feb. 2016
-      company: The 74th Conference of Korean Society of Transportation, Korea Society of Transportation
+      company: <i>The 74th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
       details: |
         <p>Title: Analysis of Traffic Flow Impacts of Highway Traffic Accidents Using Survival Analysis</p>
 
     - role: Scholarship
       time: Oct. 2015
-      company: Alumni Association of Department of Civil Engineering, Seoul National University
+      company: <i>Alumni Association of Department of Civil Engineering, Seoul National University</i>
       details: |
         <p>Amount: $ 3,000</p>
 
     - role: Bronze Award
       time: Jun. 2013
-      company: The 6th Science and Technology Writing Excellent Research Paper Presentation Competition, College of Engineering, Seoul National University
+      company: <i>The 6th Science and Technology Writing Excellent Research Paper Presentation Competition, College of Engineering, Seoul National University</i>
       details: |
         <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>
 
