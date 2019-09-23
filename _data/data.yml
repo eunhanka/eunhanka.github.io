@@ -29,7 +29,7 @@ sidebar:
       - item: Network Modeling
       - item: Emerging Transportation Systems
       - item: Urban Mobility
-      - item: Traveler Behavior
+      - item: User Behavior
       - item: Data Minining Techniques
 
     languages:
@@ -37,7 +37,7 @@ sidebar:
       - idiom: English
 
 career-profile:
-    title: 넣어야됨...
+    title: Research Interests
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here](./CV_Eunhan.pdf).
