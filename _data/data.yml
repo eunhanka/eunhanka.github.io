@@ -45,8 +45,8 @@ career-profile:
       <p><b> - User Behavior</b>: Identifying characteristics of transportation user’s behavior (such as shortest path algorithm, mode choice, and driving behavior)</p>
 
 education:
-    - degree: <b>Master of Science in Civil and Environmental Engineering</b>
-      university: Seoul National University
+    - degree: <b>Seoul National University</b>
+      university: <i>Master of Science, Civil and Environmental Engineering</i>
       time: 2016 - 2018
       details: |
         <p>Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</p>
@@ -56,8 +56,8 @@ education:
         Advanced Sustainable Transportation (Traffic Management), Data Mining, Operations Research II,
         Transportation Optimization Techniques, Transportation Network Theory, Transportation IT Convergence System</p>
 
-    - degree: <b>Bachelor of Science in Civil and Environmental Engineering</b>
-      university: Seoul National University
+    - degree: <b>Seoul National University</b>
+      university: <i>Bachelor of Science, Civil and Environmental Engineering</i>
       time: 2008 - 2016
       details: |
         <p>Advisor: Prof. Chungwon Lee</p>
@@ -168,13 +168,11 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      <p> Refereed Journal Publications </p>
 
     papers:
       - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
-        authors: Dongmin Lee, Sooncheon Hwang, Eunhan Ka, Chungwon Lee (corresponding)
+        authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee (corresponding)
         conference: Journal of Advanced Transportation (2018)
 
 skills:
@@ -183,11 +181,11 @@ skills:
       - name: R
         level: 95%
       - name: MATLAB
-        level: 85%
+        level: 80%
       - name: Python (w/ Tensorflow)
-        level: 70%
+        level: 75%
       - name: Java (w/ CPLEX)
-        level: 65%
+        level: 70%
       - name: SPSS & NLOGIT
         level: 60%
       - name: VISSIM
