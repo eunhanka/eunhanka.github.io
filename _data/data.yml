@@ -25,6 +25,8 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    CV: [download this free resume/CV template here](./CV_Eunhan.pdf).
+    
     research_interests:
       - item: Network Modeling
       - item: Emerging Transportation Systems
@@ -35,14 +37,14 @@ sidebar:
     languages:
       - idiom: Korean
       - idiom: English
-      
+      <br><br><br>
       - idiom: Last updated September 22, 2019
 
 career-profile:
     title: Research Interests
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here](./CV_Eunhan.pdf).
+      adipiscing elit. 
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
