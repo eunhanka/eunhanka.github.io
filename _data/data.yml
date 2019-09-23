@@ -182,7 +182,6 @@ publications:
       <p><b> Refereed Conference Proceedings </b></p>
       
     papers:
-    
       - title: Analysis of Status in DRT Service for the Disabled in Seoul and Comparison Domestic and Foreign Cases
         authors: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
         conference: International Conference for Road Engineers, South Korea (2018)
@@ -215,17 +214,13 @@ publications:
         authors: Sanghyup Lee, Hyunkyung Lee, Jaeyoung Lee, <b>Eunhan Ka</b>, Chungwon Lee
         conference: The 74th Korean Society of Transportation Conference, South Korea (2016)
         
-    intro3: |
-      <p><b> Currently Under Review </b></p>
+      - title: A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
+        authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
+        conference: 99th Annual Meeting of the Transportation Research Board, United States
 
-    papers3:
-      - title3: A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
-        authors3: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
-        conference3: 99th Annual Meeting of the Transportation Research Board, United States
-
-      - title3: Implementing Surrogate Safety Measures to Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Aggressive Driving Behaviors
-        authors3: <b>Eunhan Ka</b>, Dokyeong Kim, Jooneui Hong, Chungwon Lee
-        conference3: 99th Annual Meeting of the Transportation Research Board, United States
+      - title: Implementing Surrogate Safety Measures to Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Aggressive Driving Behaviors
+        authors: <b>Eunhan Ka</b>, Dokyeong Kim, Jooneui Hong, Chungwon Lee
+        conference: 99th Annual Meeting of the Transportation Research Board, United States
         
 skills:
     title: Skills &amp; Proficiency
