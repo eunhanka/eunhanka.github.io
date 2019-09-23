@@ -30,5 +30,13 @@
   </div><!--//item-->
   {% endfor %}
 
+  {% for publication in publications.papers2 %}
+  <div class="item">
+    <div class="publication-title">{{ publication.title }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+  
 </section><!--//section-->
 {% endif %}
