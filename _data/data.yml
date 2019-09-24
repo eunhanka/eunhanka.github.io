@@ -26,11 +26,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     
     research_interests:
+      - item: Mobility Service
       - item: Network Modeling
-      - item: Emerging Transportation Systems
-      - item: Urban Mobility
       - item: User Behavior
       - item: Data Minining Techniques
+      - item: Logistics
 
     languages:
       - idiom: Korean
