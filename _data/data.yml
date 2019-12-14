@@ -31,13 +31,13 @@ sidebar:
       - idiom: <br> <br><br> Last updated September 22, 2019
 
 career-profile:
-    title: Research Interests
+    title: <b>Research Interests</b>
     summary: |
       <p><b> - Network Modeling</b>: Developing the solution technique to improve efficiency and resilience of transportation networks (such as public transit, infrastructure, and logistics) in uncertain and unpredictable conditions</p>
       <p><b> - Mobility Service</b>: Developing the real-time operation strategy of mobility services (such as car-sharing, bike-sharing, and ridesharing) in uncertain and dynamic conditions</p>
       <p><b> - User Behavior</b>: Identifying characteristics of transportation user’s behavior (such as shortest path algorithm, mode choice, and driving behavior)</p>
 
-education:
+<b>education</b>:
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Civil and Environmental Engineering</i>
       time: 2016 - 2018
@@ -60,7 +60,7 @@ education:
         Operations Research I, Principles of Economics I & II, Spatial Informatics and Systems, Statistics,
         Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
-research_experiences:
+<b>research_experiences</b>:
     - role: Researcher
       time: 2018 - Present
       company: <i>Institute of Construction and Environmental Engineering, Seoul National University</i>
@@ -82,7 +82,7 @@ research_experiences:
         <p>Collaborated and coordinated with faculty, businessman, researchers across institutes
         (Korea Transport Institute, Korea Transportation Safety Authority, InnoSim)</p>
 
-experiences:
+<b>experiences</b>:
     - role: Mentor, SNU Youth Engineering Frontier Camp
       time: 2017 - 2018
       company: <i>College of Engineering, Seoul National University</i>
@@ -103,7 +103,7 @@ experiences:
           - Leadership for Civil Engineers 		          (Spring 2017, Undergraduate)
           - Introduction to Transportation Engineering 	(Fall 2016, Undergraduate)
 
-awards:
+<b>awards</b>:
     - role: Outstanding Paper Award
       time: Mar. 2018
       company: <i>The 78th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
@@ -130,17 +130,17 @@ awards:
         <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>
 
 publications:
-    title: Publications (Journal)
+    title: <b>Publications (Journal)</b>
     intro: |
 
     papers:
-      - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model<a href="https://doi.org/10.1155/2018/2726732">Label</a>
+      - title: <a href="https://doi.org/10.1155/2018/2726732">Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model</a>
         authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee
         conference: Journal of Advanced Transportation (2018)
 
 
 con_publications:
-    title: Publications (Conference Proceeding)
+    title: <b>Publications (Conference Proceeding)</b>
     intro: |
 
     papers:
@@ -180,7 +180,7 @@ con_publications:
         
         
 skills:
-    title: Skills &amp; Proficiency
+    title: <b>Skills &amp; Proficiency</b>
     toolset:
       - name: R
         level: 90%
