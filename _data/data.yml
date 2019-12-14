@@ -134,7 +134,7 @@ publications:
     intro: |
 
     papers:
-      - title: <a href="https://doi.org/10.1155/2018/2726732">1. Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model</a>
+      - title: <a href="https://doi.org/10.1155/2018/2726732" target="_blank">1. Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model</a>
         authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee
         conference: Journal of Advanced Transportation (2018)<br><br><br><p><i><b>Currently Under Review</b></i></p><br><p>Implementing Surrogate Safety Measures to Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Aggressive Driving Behaviors<br><i>Eunhan Ka, Dogyeong Kim, Jooneui Hong, Chungwon Lee</i><br>Journal of Advanced Transportation</p>
 
