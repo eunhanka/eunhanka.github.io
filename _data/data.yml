@@ -42,7 +42,7 @@ education:
       university: <i>Master of Science, Civil and Environmental Engineering</i>
       time: 2016 - 2018
       details: |
-        <p><b>Thesis Title: <b>A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</b></p>
+        <p><b>Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</b></p>
         <p>Advisor: Prof. Chungwon Lee</p>
         <p>Courses: <br>
         Advanced Transportation Operations (Traffic Flow Theory), Advanced Transportation Operations (Transportation Systems Analysis),
@@ -134,7 +134,7 @@ publications:
     intro: |
 
     papers:
-      - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model
+      - title: Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model<a href="https://doi.org/10.1155/2018/2726732">Label</a>
         authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee
         conference: Journal of Advanced Transportation (2018)
 
