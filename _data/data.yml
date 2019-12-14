@@ -24,13 +24,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    
-    research_interests:
-      - item: Mobility Service
-      - item: Network Modeling
-      - item: User Behavior
-      - item: Data Minining Techniques
-      - item: Logistics
 
     languages:
       - idiom: Korean
@@ -49,7 +42,7 @@ education:
       university: <i>Master of Science, Civil and Environmental Engineering</i>
       time: 2016 - 2018
       details: |
-        <p>Thesis Title: <b>A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</b></p>
+        <p><b>Thesis Title: <b>A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</b></p>
         <p>Advisor: Prof. Chungwon Lee</p>
         <p>Courses: <br>
         Advanced Transportation Operations (Traffic Flow Theory), Advanced Transportation Operations (Transportation Systems Analysis),
