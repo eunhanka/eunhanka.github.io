@@ -143,7 +143,7 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
-      - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
+      - title: <a href="https://eunhanka.github.io/TRB2020_DBSCAN_Draft.pdf" target="_blank">9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled</a>
         authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
         conference: 99th Annual Meeting of the Transportation Research Board, Washington DC, United States (2020)
         
