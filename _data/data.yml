@@ -37,7 +37,7 @@ career-profile:
       <p><b> - Mobility Service</b>: Developing the real-time operation strategy of mobility services (such as car-sharing, bike-sharing, and ridesharing) in uncertain and dynamic conditions</p>
       <p><b> - User Behavior</b>: Identifying characteristics of transportation user’s behavior (such as shortest path algorithm, mode choice, and driving behavior)</p>
 
-<b>education</b>:
+education:
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Civil and Environmental Engineering</i>
       time: 2016 - 2018
@@ -60,7 +60,7 @@ career-profile:
         Operations Research I, Principles of Economics I & II, Spatial Informatics and Systems, Statistics,
         Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
-<b>research_experiences</b>:
+research_experiences:
     - role: Researcher
       time: 2018 - Present
       company: <i>Institute of Construction and Environmental Engineering, Seoul National University</i>
@@ -82,7 +82,7 @@ career-profile:
         <p>Collaborated and coordinated with faculty, businessman, researchers across institutes
         (Korea Transport Institute, Korea Transportation Safety Authority, InnoSim)</p>
 
-<b>experiences</b>:
+experiences:
     - role: Mentor, SNU Youth Engineering Frontier Camp
       time: 2017 - 2018
       company: <i>College of Engineering, Seoul National University</i>
@@ -103,7 +103,7 @@ career-profile:
           - Leadership for Civil Engineers 		          (Spring 2017, Undergraduate)
           - Introduction to Transportation Engineering 	(Fall 2016, Undergraduate)
 
-<b>awards</b>:
+awards:
     - role: Outstanding Paper Award
       time: Mar. 2018
       company: <i>The 78th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
