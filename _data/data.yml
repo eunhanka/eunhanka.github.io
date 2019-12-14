@@ -183,7 +183,7 @@ con_publications:
         
         
 skills:
-    title: <b>Skills &amp; Proficiency</b>
+    title: <b>Programming Skills &amp; Proficiency</b>
     toolset:
       - name: R
         level: 90%
@@ -192,11 +192,7 @@ skills:
       - name: Python (w/ Tensorflow)
         level: 75%
       - name: MATLAB
-        level: 70%
-      - name: SPSS & NLOGIT
         level: 60%
-      - name: VISSIM
-        level: 50%
 
 footer: >
     Copyright (c) 2018 webjeda
