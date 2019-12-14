@@ -134,7 +134,7 @@ publications:
     intro: |
 
     papers:
-      - title: <a href="https://doi.org/10.1155/2018/2726732" target="_blank">1. Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model</a>
+      - title: 1. Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model <a href="https://doi.org/10.1155/2018/2726732" target="_blank"> [link] </a>
         authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee
         conference: Journal of Advanced Transportation (2018)<br><br><br><p><i><b>Currently Under Review</b></i></p><p>Implementing Surrogate Safety Measures to Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Aggressive Driving Behaviors<br><i>Eunhan Ka, Dogyeong Kim, Jooneui Hong, Chungwon Lee</i><br>Journal of Advanced Transportation</p>
 
@@ -143,7 +143,7 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
-      - title: <a href="https://eunhanka.github.io/TRB2020_DBSCAN_Draft.pdf" target="_blank">9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled</a>
+      - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled <a href="https://eunhanka.github.io/TRB2020_DBSCAN_Draft.pdf" target="_blank"> [pdf] </a>
         authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
         conference: 99th Annual Meeting of the Transportation Research Board, Washington DC, United States (2020)
         
