@@ -187,11 +187,11 @@ skills:
     toolset:
       - name: R
         level: 90%
-      - name: MATLAB
+      - name: Java (w/ CPLEX)
         level: 80%
       - name: Python (w/ Tensorflow)
         level: 75%
-      - name: Java (w/ CPLEX)
+      - name: MATLAB
         level: 70%
       - name: SPSS & NLOGIT
         level: 60%
