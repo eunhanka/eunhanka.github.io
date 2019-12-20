@@ -28,7 +28,7 @@ sidebar:
     languages:
       - idiom: Korean
       - idiom: English
-      - idiom: <br> <br><br> Last updated September 22, 2019
+      - idiom: <br> <br><br> Last updated December 20, 2019
 
 career-profile:
     title: <b>Research Interests</b>
@@ -40,7 +40,7 @@ career-profile:
 education:
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Civil and Environmental Engineering</i>
-      time: 2016 - 2018
+      time: Mar. 2016 - Feb. 2018
       details: |
         <p><b>Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</b></p>
         <p>Advisor: Prof. Chungwon Lee</p>
@@ -51,7 +51,7 @@ education:
 
     - degree: <b>Seoul National University</b>
       university: <i>Bachelor of Science, Civil and Environmental Engineering</i>
-      time: 2008 - 2016
+      time: Mar. 2008 - Feb. 2016
       details: |
         <p>Advisor: Prof. Chungwon Lee</p>
         <p>Courses: <br>
@@ -62,72 +62,52 @@ education:
 
 research_experiences:
     - role: Researcher
-      time: 2018 - Present
+      time: Mar. 2018 - Present
       company: <i>Institute of Construction and Environmental Engineering, Seoul National University</i>
       details: |
-        <p>Lead a study on developing optimal operation strategy of Mobility-as-a-Service (MaaS) for the mobility impaired</p>
-        <p>Design a behavioral choice model of the use of a shared parking and shared mobility services</p>
-        <p>Collaborate and coordinate with faculty, businessman, researchers, fellow graduate students
-        for preparing project proposals across institutes (University of Seoul, Radius Corporation, Korea Land & Housing Institute)</p>
+        <p>Develop optimal operation strategies of Mobility-as-a-Service (MaaS) for the mobility impaired (such as the disabled and the elderly)</p>
+        <p>Lead a study on designing a cluster-based route of multi-capacity vehicles of demand responsive transport service for the disabled and analyzing quantitative effects of shared parking services & last-mile mobility services</p>
+        <p>Contribute to preparing grant proposals for government-funded research projects</p>
+        <p>Collaborate and coordinate with faculty, businessman, researchers, fellow graduate students for developing project proposals across institutes (University of Seoul, Radius Corporation, Korea Land & Housing Institute)</p>
 
 #          - Bullet point
 
     - role: Graduate Research Assistant
-      time: 2016 - 2018
+      time: Mar. 2016 - Feb. 2018
       company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
-        <p>Designed real-time based relocation strategy for car-sharing and developed event-based simulation for car-sharing system</p>
+        <p>Designed a real-time based relocation strategy for one-way car-sharing and developed an event-based simulation for one-way car-sharing services</p>
         <p>Led a study on improving dial-a-rid service for the disabled with shared mobility in Seoul and a study on
         developing evaluation method to evaluate driver behavior with surrogate safety measures</p>
         <p>Collaborated and coordinated with faculty, businessman, researchers across institutes
         (Korea Transport Institute, Korea Transportation Safety Authority, InnoSim)</p>
 
 experiences:
-    - role: Mentor, SNU Youth Engineering Frontier Camp
-      time: 2017 - 2018
-      company: <i>College of Engineering, Seoul National University</i>
-      details: |
-        <p>Introduced traffic engineering to high school students and taught basic traffic flow theory using highway detector data</p>
-        <p>Advised the students in preparation for admission to a university and consulted with the students about difficulties in high school life.</p>
-
-    - role: Teaching Assistant (Prof. Chungwon Lee)
-      time: 2016 - 2017
+    - role: Lecturer, Introduction to Civil and Environmental Engineering (400.022)
+      time: Nov. 2019
       company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
-        <p>Assisted in teaching, grading and preparing course material for core subjects of transportation in undergraduate and graduate program</p>
-        <p>Supervised undergraduate student projects and team activities around collecting and analyzing data,
-        and designing future transportation system in campus</p>
+        <p>Introduced transportation engineering and trends of mobility services to 50 undergraduate students</p>
+        <p>Covered areas of transportation engineering, status and issues of transportation in South Korea, future sustainable transportation systems, and transportation laws in South Korea</p>
+
+    - role: Mentor, SNU Youth Engineering Frontier Camp
+      time: Aug. 2017, Feb. 2018
+      company: <i>College of Engineering, Seoul National University</i>
+      details: |
+        <p>Introduced traffic engineering and taught basic traffic flow theory to 10 high school students</p>
+        <p>Advised students in preparation for admission to a university and consulted with the students about difficulties in high school life</p>
+
+    - role: Teaching Assistant (Prof. Chungwon Lee)
+      time: Sep. 2016 - Dec. 2017
+      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
+      details: |
+        <p>Assisted in preparing and teaching course material for core subjects of transportation in undergraduate and graduate program, had office hours every week, answered questions in person, and marked assignments & exams</p>
+        <p>Supervised undergraduate student’s projects in terms of analyzing smart-card data, implementing clustering algorithms, and visualizing GPS data</p>
         Course:
-          - Sustainable Transportation Systems 		      (Fall 2017, Undergraduate)
+          - Sustainable Transportation Systems 		      (Fall 2017,   Undergraduate)
           - Advanced Transportation Operation 		      (Spring 2017, Graduate)
           - Leadership for Civil Engineers 		          (Spring 2017, Undergraduate)
-          - Introduction to Transportation Engineering 	(Fall 2016, Undergraduate)
-
-awards:
-    - role: Outstanding Paper Award
-      time: Mar. 2018
-      company: <i>The 78th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
-      details: |
-        <p>Title: Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport
-        for the Disabled in Seoul using Long Short-Term Memory (LSTM) Network</p>
-
-    - role: Outstanding Paper Award
-      time: Feb. 2016
-      company: <i>The 74th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
-      details: |
-        <p>Title: Analysis of Traffic Flow Impacts of Highway Traffic Accidents Using Survival Analysis</p>
-
-    - role: Scholarship
-      time: Oct. 2015
-      company: <i>Alumni Association of Department of Civil Engineering, Seoul National University</i>
-      details: |
-        <p>Amount: $ 3,000 (100% of tuition)</p>
-
-    - role: Bronze Award
-      time: Jun. 2013
-      company: <i>The 6th Science and Technology Writing Excellent Research Paper Presentation Competition, College of Engineering, Seoul National University</i>
-      details: |
-        <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>
+          - Introduction to Transportation Engineering 	  (Fall 2016,   Undergraduate)
 
 publications:
     title: <b>Publications (Journal)</b>
@@ -179,7 +159,46 @@ con_publications:
         authors: Sanghyup Lee, Hyunkyung Lee, Jaeyoung Lee, <b>Eunhan Ka</b>, Chungwon Lee
         conference: The 74th Korean Society of Transportation Conference, South Korea (2016) 
         
-        
+
+awards:
+    - role: Outstanding Paper Award
+      time: Mar. 2018
+      company: <i>The 78th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
+      details: |
+        <p>Title: Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport
+        for the Disabled in Seoul using Long Short-Term Memory (LSTM) Network</p>
+
+    - role: Lecture & Research Scholarship
+      time: Sep. 2016 - Feb. 2017
+      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
+      details: |
+
+    - role: Brain Korea 21 Plus Scholarship
+      time: Mar. 2016 - Aug. 2016
+      company: <i>National Research Foundation of Korea</i>
+      details: |
+
+    - role: Need-based Scholarship
+      time: Mar. 2016
+      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
+
+    - role: Outstanding Paper Award
+      time: Feb. 2016
+      company: <i>The 74th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
+      details: |
+        <p>Title: Analysis of Traffic Flow Impacts of Highway Traffic Accidents Using Survival Analysis</p>
+
+    - role: Alumni Association Scholarship
+      time: Oct. 2015
+      company: <i>Alumni Association of Department of Civil Engineering, Seoul National University</i>
+      details: |
+
+
+    - role: Bronze Award
+      time: Jun. 2013
+      company: <i>The 6th Science and Technology Writing Excellent Research Paper Presentation Competition, College of Engineering, Seoul National University</i>
+      details: |
+        <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>
         
         
 skills:
