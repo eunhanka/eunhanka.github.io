@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Eunhan Ka
     tagline: Researcher
-    tagline2: Institute of Construction and Environmental Engineering, <br> Seoul National University
+    tagline2: Institute of Engineering Research, <br> Seoul National University
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -63,7 +63,7 @@ education:
 research_experiences:
     - role: Researcher
       time: Jan. 2020- Present
-      company: <i>Institute of Engineering, Seoul National University</i>
+      company: <i>Institute of Engineering Research, Seoul National University</i>
       details: |
         <p> - Contribute to the preparation grant proposals for government-funded research projects</p>
         <p> - Collaborate and coordinate with faculty members, businessmen, researchers, and fellow graduate students across institutes to develop proposals (with University of Seoul, Radius Corporation, Korea Land & Housing Institute)</p>
