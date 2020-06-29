@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: kaeunhan@snu.ac.kr 
-    phone: +82-10-4925-7793
+    phone: 
     website: eunhanka.github.io #do not add http://
     linkedin: #kaeunhan
     github:
@@ -62,7 +62,14 @@ education:
 
 research_experiences:
     - role: Researcher
-      time: Mar. 2018 - Present
+      time: Jan2020- Present
+      company: <i>Institute of Engineering, Seoul National University</i>
+      details: |
+        <p> - Contribute to the preparation grant proposals for government-funded research projects</p>
+        <p> - Collaborate and coordinate with faculty members, businessmen, researchers, and fellow graduate students across institutes to develop proposals (with University of Seoul, Radius Corporation, Korea Land & Housing Institute)</p>
+
+    - role: Researcher
+      time: Mar. 2018 - Dec. 2019
       company: <i>Institute of Construction and Environmental Engineering, Seoul National University</i>
       details: |
         <p> - Develop optimal operation strategies of Mobility-as-a-Service (MaaS) for the mobility impaired (such as disabled or elderly people)</p>
@@ -110,18 +117,22 @@ experiences:
 publications:
     title: <b>Publications (Journal)</b>
     intro: |
-
     papers:
+      - title: 2. Implementing Surrogate Safety Measures in Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Risky Driving Behaviors <a href="https://doi.org/10.1155/2020/7525721" target="_blank"> <b>[link]</b> </a>
+        authors: <b>Eunhan Ka</b>, Do-gyeong Kim, Jooneui Hong, Chungwon Lee
+        conference: Journal of Advanced Transportation (2020)
+        
       - title: 1. Evaluation of the Rain Effects on Gap Acceptance Behavior at Roundabouts by a Logit Model <a href="https://doi.org/10.1155/2018/2726732" target="_blank"> <b>[link]</b> </a>
         authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee
-        conference: Journal of Advanced Transportation (2018)<br><br><br><p><i><b>Currently Under Review</b></i></p><p>Implementing Surrogate Safety Measures to Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Aggressive Driving Behaviors<br><i>Eunhan Ka, Dogyeong Kim, Jooneui Hong, Chungwon Lee</i><br>Journal of Advanced Transportation</p>
+        conference: Journal of Advanced Transportation (2018)
+
 
 
 con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
-      - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled <a href="https://eunhanka.github.io/TRB2020_DBSCAN_Draft.pdf" target="_blank"> <b>[pdf]</b> </a>
+      - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
         authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
         conference: 99th Annual Meeting of the Transportation Research Board, Washington DC, United States (2020)
         
