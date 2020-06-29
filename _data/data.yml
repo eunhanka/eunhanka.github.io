@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: kaeunhan@snu.ac.kr 
     phone: 
-    website: <a href="https://scholar.google.com/citations?user=6--Tei4AAAAJ&hl=ko&oi=ao" target="_blank"> <b>[Google Scholar]</b> </a> #do not add http://
+    website: <a href="scholar.google.com/citations?user=6--Tei4AAAAJ&hl=ko&oi=ao" target="_blank"> <b>[Google Scholar]</b> </a> #do not add http://
     linkedin: #kaeunhan
     github:
     gitlab:
