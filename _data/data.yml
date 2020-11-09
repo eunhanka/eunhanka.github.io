@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Eunhan Ka
-    tagline: Research Assistant <a href="CV_Eunhan.pdf" target="_blank"> <b>[CV]</b> </a>
+    tagline: Research Assistant <a href="CV_Eunhan_Nov2020.pdf" target="_blank"> <b>[CV]</b> </a>
     tagline2: Lyles School of Civil Engineering, <br> Purdue University
     avatar: IMG_4591.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -39,8 +39,8 @@ career-profile:
 
 education:
     - degree: <b>Purdue University</b>
-      university: <i>Master of Science, Civil and Environmental Engineering</i>
-      time: Mar. 2016 - Feb. 2018
+      university: <i>Doctor of Philosophy, Lyles School of Civil Engineering</i>
+      time: Aug. 2020 - Present
       details: |
         <p>Courses: <br>
         Smart Logistics, Optimization Methods For Systems And Control, Introduction To Deep Learning </p>
