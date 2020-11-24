@@ -98,12 +98,12 @@ research_experiences:
 
 experiences:
     - role: Teaching Assistant
-      time: Jan. 2021 - Apr. 2021
+      time: Jan. 2021 - Present
       company: <i>Lyles School of Civil Engineering, Purdue Univeristy</i>
       details: |
-        <p> - Assisted in preparing and teaching course material, answered questions, and marked assignments</p>
+        <p> - Assist in preparing and teaching course material, answer questions, and mark assignments</p>
         Course:
-          - Data Science for Smart Cities [edX] (CE597) <Prof. Satish Ukkusuri>         (Spring 2021, Graduate)
+          - Data Science for Smart Cities <a href="https://doi.org/10.1155/2018/2726732" target="_blank"> <b>[edX]</b> </a> (CE597) (Spring 2021, Graduate)
 
     - role: Lecturer, Introduction to Civil and Environmental Engineering
       time: Nov. 2019
