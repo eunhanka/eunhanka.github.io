@@ -97,11 +97,13 @@ research_experiences:
         <p> - Collaborated and coordinated with faculty, businessmen, and researchers at the Korea Transport Institute, Korea Transportation Safety Authority, and InnoSim</p>
 
 experiences:
-    - role: Teaching Assistant, Data Science for Smart Cities
+    - role: Teaching Assistant
       time: Jan. 2021 - Apr. 2021
-      company: <i>Professor Satish Ukkusuri, PurdueX, edX</i>
+      company: <i>Lyles School of Civil Engineering, Purdue Univeristy</i>
       details: |
         <p> - Assisted in preparing and teaching course material, answered questions, and marked assignments</p>
+        Course:
+          - Data Science for Smart Cities [edX] (CE597) <Prof. Satish Ukkusuri>         (Spring 2021, Graduate)
 
     - role: Lecturer, Introduction to Civil and Environmental Engineering
       time: Nov. 2019
@@ -117,7 +119,7 @@ experiences:
         <p> - Taught traffic engineering and the basic theory of traffic flow to 10 high school students</p>
         <p> - Advised students concerning preparing for admission to universities and consulted with the students about the difficulties they encountered in high school</p>
 
-    - role: Teaching Assistant (Professor Chungwon Lee)
+    - role: Teaching Assistant
       time: Sep. 2016 - Dec. 2017
       company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
