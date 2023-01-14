@@ -1,0 +1,29 @@
+{% assign con_publications = site.data.data.con_publications %}
+{% if con_publications %}
+<section class="section con_publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ con_publications.title }}
+  </h2>
+
+  {% if con_publications.intro %}
+  <div class="intro">
+    {{ con_publications.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+  
+  {% for con_publication in con_publications.papers %}
+  <div class="item">
+    <div class="con_publication-title">{{ con_publication.title }}</div>
+    <div class="con_publication-authors">{{ con_publication.authors }}</div>
+    <div class="con_publication-conference">{{ con_publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+  
+</section><!--//section-->
+
+{% endif %}
