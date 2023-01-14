@@ -7,50 +7,48 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Eunhan Ka
+    tagline: Ph.D. Student
+    tagline2: Lyles School of Civil Engineering, <br> Purdue University
+    avatar: Profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: kae@purdue.edu
+    phone:
+    timezone:
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: eunhanka.github.io #do not add http://
+    linkedin: eunhan-ka-86111a116/
     xing: alandoe
-    github: sharu725
+    github: eunhanka
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@EunhanKa'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
         - idiom: English
+          level: Professional
+
+        - idiom: Korean
           level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Bodybuilding
           link:
 
-        - item: Snowboarding
+        - item: Golf
           link:
 
-        - item: Cooking
+        - item: Guitar
           link:
 
 career-profile:
@@ -62,6 +60,9 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+      <p><b> - Network Modeling</b>: Developing the solution techniques required to improve the efficiency and resilience of transportation networks, such as such as public transit, infrastructure, and logistics in uncertain and unpredictable conditions</p>
+      <p><b> - Mobility Service</b>: Developing the real-time operation strategy of mobility services (such as car-sharing, bike-sharing, and ride-sharing) in uncertain and dynamic conditions</p>
+      <p><b> - User Behavior</b>: Understanding the characteristics of transportation users’ behaviors (such as mode choice, shortest path algorithm, routing, and driving behavior)</p>
 education:
     title: Education
     info:
@@ -196,26 +197,16 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+  title: <b>Programming Skills &amp; Proficiency</b>
+  toolset:
+    - name: R
+      level: 90%
+    - name: Python (w/ Tensorflow, Pytorch)
+      level: 90%
+    - name: Java (w/ CPLEX)
+      level: 80%
+    - name: MATLAB
+      level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
