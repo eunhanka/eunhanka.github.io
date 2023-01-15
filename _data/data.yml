@@ -26,9 +26,8 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Korean
       - idiom: English
-      - idiom: <br> <br><br> Last updated Oct 8, 2021
+      - idiom: Korean
 
 career-profile:
     title: <b>Research Interests</b>
@@ -43,11 +42,11 @@ education:
       time: Aug. 2020 - Present
       details: |
         <p>Courses: <br>
-        Statistical Machine Learning II (CS 690), Network Models for Connected Autonomous Vehicles (CE 597), Dynamic Programming (IE 633), Stochastic Networks (IE 590), Smart Logistics (CE 597), Optimization Methods for Systems And Control (ECE 580), Introduction To Deep Learning (ECE 595) </p>
+        	Probabilistic Machine Learning (CS592), Large-Scale Networks (ECE695), Optimization, "Optimization, Game Theory, and Uncertainty" (IE695), Statistical Machine Learning II (CS 690), Network Models for Connected Autonomous Vehicles (CE 597), Dynamic Programming (IE 633), Stochastic Networks (IE 590), Smart Logistics (CE 597), Optimization Methods for Systems And Control (ECE 580), Introduction To Deep Learning (ECE 595) </p>
         
     - degree: <b>Seoul National University</b>
-      university: <i>Master of Science, Civil and Environmental Engineering</i>
-      time: Mar. 2016 - Feb. 2018
+      university: <i>Master of Science, Department of Civil and Environmental Engineering</i>
+      time: Feb. 2018
       details: |
         <p><b>Thesis Title: A Simulation Study of Demand Responsive Transport for the Disabled to Minimize User Waiting Time</b></p>
         <p>Courses: <br>
@@ -56,8 +55,8 @@ education:
         Transportation Optimization Techniques, Transportation Network Theory, Transportation IT Convergence System</p>
 
     - degree: <b>Seoul National University</b>
-      university: <i>Bachelor of Science, Civil and Environmental Engineering</i>
-      time: Mar. 2008 - Feb. 2016
+      university: <i>Bachelor of Science, Department of Civil and Environmental Engineering</i>
+      time: Feb. 2016
       details: |
         <p>Courses: <br>
         Calculus I & II, Design of Transportation Systems, Digital Computer Concept and Practice, Engineering Mathematics I & II,
@@ -70,9 +69,9 @@ research_experiences:
       time: Aug. 2020 - Present
       company: <i>Lyles School of Civil Engineering, Purdue University</i>
       details: |
-        <p> - Estimate the traffic states with physics-informed deep learning in large-scale urban areas </p>
+        <p> - Develop a novel framework for modeling traffic dynamics with physics-informed deep learning in large-scale urban areas </p>
         <p> - Predict origin-destination matrices based on mobile location data (Sponsor: INDOT)</p>
-        <p> - Analyze the traffic impact of movable barrier (Alex Fraser Bridge) in Vancouver by leveraging the mobile location data (Sponsor: Lindsay)</p>
+        <p> - Analyze the traffic impact of movable barrier (Alex Fraser Bridge) in Vancouver by leveraging the mobile location data (Sponsor: Lindsay Corporation)</p>
 
     - role: <b>Researcher</b>
       time: Jan. 2020 - Aug. 2020
@@ -86,6 +85,7 @@ research_experiences:
       company: <i>Institute of Construction and Environmental Engineering, Seoul National University</i>
       details: |
         <p> - Developed optimal operation strategies of Mobility-as-a-Service (MaaS) for the mobility impaired (such as disabled or elderly people)</p>
+        <p> - Modelled lane change behaviors on freeways and gap acceptance behaviors at roundabouts in real driving situations and virtual reality</p>
         <p> - Collaborated and coordinated with faculty members, businessmen, researchers, and fellow graduate students across institutes to develop proposals (with University of Seoul, Radius Corporation, Korea Land & Housing Institute)</p>
 
 #          - Bullet point
@@ -105,10 +105,9 @@ experiences:
       details: |
         <p> - Assist in preparing and teaching course material, answer questions, and mark assignments</p>
         Course:
-          - (Online Course) CE 597 - Netowrk Models for Connected Autonomous Vehicles (Spring 2022, Graduate)
-          - (Online Course) CE 597 - Smart Logistics (Fall 2021, Graduate)
-          - (Online Course) CE 597 - Netowrk Models for Connected Autonomous Vehicles (Fall 2021, Graduate)
-          - CE 597 - Data Science for Smart Cities - CE597 (Spring 2021, Graduate), <a href="https://www.edx.org/course/data-science-for-smart-cities" target="_blank"> <b>[edX]</b> </a>
+          - (Graduate Course) CE 597 - Netowrk Models for Connected Autonomous Vehicles (Spring 2022, Fall 2021)
+          - (Graduate Course) CE 597 - Smart Logistics (Fall 2021, Graduate)
+          - (Graduate Course) CE 597 - Data Science for Smart Cities - CE597 (Spring 2021, Graduate), <a href="https://www.edx.org/course/data-science-for-smart-cities" target="_blank"> <b>[edX]</b> </a>
 
     - role: <b>Lecturer, Introduction to Civil and Environmental Engineering</b>
       time: Nov. 2019
@@ -140,9 +139,13 @@ publications:
     title: <b>Publications (Journal)</b>
     intro: |
     papers:
+      - title: (In preparation) PIML-GBM &#58; A Physics-Informed Machine Learning for Estimating Traffic State with a Generalized Bathtub Model in Large-scale Urban Networks
+        authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Le Satish V. Ukkusuri
+        conference: Transportation Science
+
       - title: 3. Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management &#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
-        authors: <b>Eunhan Ka</b>, Smita Sharma, Satish Ukkusuri
-        conference: Journal of Transportation Engineering, Part A &#58; Systems (2022), <b>Chosen as one of the 2022 Editor's Choice Collections</b>
+        authors: <b>Eunhan Ka</b>, Smita Sharma, Satish V. Ukkusuri
+        conference: Journal of Transportation Engineering, Part A &#58; Systems (2022), </p><b>This paper was one of the 2022 Editor's Choice Collections</b>
         
       - title: 2. Implementing Surrogate Safety Measures in Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Risky Driving Behaviors <a href="https://doi.org/10.1155/2020/7525721" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Do-gyeong Kim, Jooneui Hong, Chungwon Lee
@@ -152,12 +155,14 @@ publications:
         authors: Dongmin Lee, Sooncheon Hwang, <b>Eunhan Ka</b>, Chungwon Lee
         conference: Journal of Advanced Transportation (2018)
 
-
-
 con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
+      - title: (Submitted) Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
+        authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng FengSatish V. Ukkusuri
+        conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
+
       - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
         authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
         conference: 99th Annual Meeting of the Transportation Research Board, Washington DC, United States (2020)
@@ -238,14 +243,14 @@ awards:
 skills:
     title: <b>Programming Skills &amp; Proficiency</b>
     toolset:
-      - name: R
-        level: 90%
-      - name: Java (w/ CPLEX)
-        level: 80%
       - name: Python (w/ Tensorflow)
+        level: 90%
+      - name: R
+        level: 85%
+      - name: Java (w/ CPLEX)
         level: 75%
       - name: MATLAB
-        level: 60%
+        level: 70%
 
 footer: >
     Copyright (c) 2018 webjeda
