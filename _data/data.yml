@@ -7,10 +7,10 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Eunhan Kaa
+    name: Eunhan Ka
     tagline: Ph.D. Student <a href="CV_Eunhan_Nov2020.pdf" target="_blank"> <b>[CV]</b> </a>
     tagline2: Lyles School of Civil Engineering, <br> Purdue University
-    avatar: Profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Profile_EH.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: kae@purdue.edu 
@@ -66,7 +66,7 @@ education:
         Statistics for Civil & Environmental Engineers, Traffic Engineering and Lab., Transportation Planning and Lab., Urban Planning
 
 research_experiences:
-    - role: Research Assistant
+    - role: <b>Research Assistant</b>
       time: Aug. 2020 - Present
       company: <i>Lyles School of Civil Engineering, Purdue University</i>
       details: |
@@ -74,14 +74,14 @@ research_experiences:
         <p> - Predict origin-destination matrices based on mobile location data (Sponsor: INDOT)</p>
         <p> - Analyze the traffic impact of movable barrier (Alex Fraser Bridge) in Vancouver by leveraging the mobile location data (Sponsor: Lindsay)</p>
 
-    - role: Researcher
+    - role: <b>Researcher</b>
       time: Jan. 2020 - Aug. 2020
       company: <i>Institute of Engineering Research, Seoul National University</i>
       details: |
         <p> - Led a study on designing a cluster-based route of multi-capacity vehicles of a demand responsive transport service for the disabled and analyze the quantitative effects of shared parking services & last-mile mobility services</p>
         <p> - Contributed to the preparation grant proposals for government-funded research projects</p>
         
-    - role: Researcher
+    - role: <b>Researcher</b>
       time: Mar. 2018 - Dec. 2019
       company: <i>Institute of Construction and Environmental Engineering, Seoul National University</i>
       details: |
@@ -90,7 +90,7 @@ research_experiences:
 
 #          - Bullet point
 
-    - role: Research Assistant
+    - role: <b>Research Assistant</b>
       time: Mar. 2016 - Feb. 2018
       company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
@@ -99,7 +99,7 @@ research_experiences:
         <p> - Collaborated and coordinated with faculty, businessmen, and researchers at the Korea Transport Institute, Korea Transportation Safety Authority, and InnoSim</p>
 
 experiences:
-    - role: Teaching Assistant
+    - role: <b>Teaching Assistant</b>
       time: Jan. 2021 - Present
       company: <i>Lyles School of Civil Engineering, Purdue Univeristy</i>
       details: |
@@ -110,21 +110,21 @@ experiences:
           - (Online Course) CE 597 - Netowrk Models for Connected Autonomous Vehicles (Fall 2021, Graduate)
           - CE 597 - Data Science for Smart Cities - CE597 (Spring 2021, Graduate), <a href="https://www.edx.org/course/data-science-for-smart-cities" target="_blank"> <b>[edX]</b> </a>
 
-    - role: Lecturer, Introduction to Civil and Environmental Engineering
+    - role: <b>Lecturer, Introduction to Civil and Environmental Engineering</b>
       time: Nov. 2019
       company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
         <p> - Taught transportation engineering and trends of mobility services to 50 undergraduate students</p>
         <p> - Covered areas of transportation engineering, status and issues of transportation in South Korea, future sustainable transportation systems, and transportation laws in South Korea</p>
 
-    - role: Mentor, Youth Engineering Frontier Camp
+    - role: <b>Mentor, Youth Engineering Frontier Camp</b>
       time: Aug. 2017, Feb. 2018
       company: <i>College of Engineering, Seoul National University</i>
       details: |
         <p> - Taught traffic engineering and the basic theory of traffic flow to 10 high school students</p>
         <p> - Advised students concerning preparing for admission to universities and consulted with the students about the difficulties they encountered in high school</p>
 
-    - role: Teaching Assistant
+    - role: <b>Teaching Assistant</b>
       time: Sep. 2016 - Dec. 2017
       company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
