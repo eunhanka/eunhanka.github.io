@@ -32,10 +32,10 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-
-      <p><b> - Network Modeling</b>: Developing the solution techniques required to improve the efficiency and resilience of transportation networks, such as such as public transit, infrastructure, and logistics in uncertain and unpredictable conditions</p>
-      <p><b> - Mobility Service</b>: Developing the real-time operation strategy of mobility services (such as car-sharing, bike-sharing, and ride-sharing) in uncertain and dynamic conditions</p>
-      <p><b> - User Behavior</b>: Understanding the characteristics of transportation users’ behaviors (such as mode choice, shortest path algorithm, routing, and driving behavior)</p>
+      I am a PhD student in the in <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>the Lyles School of Civil Engineering</b> and <a href="http://www.satishukkusuri.com/" target="_blank"> <b>the UMNILAB (advisor: Dr. Satish V. Ukkusuri)</b> at Purdue University </a> since August 2020. My research focuses on as follows:
+      <p><b> - Network Traffic Model</b>: Modeling traffic dynamics in large-scale urban areas from physics-informed machine learning and mathematical traffic flow model; Applications: Perimeter control, Traffic signal control, Vehicle routing. </p>
+      <p><b> - Connected and Autonomous Vehicles (CAVs)</b>: Estimating traffic states (e.g., traffic density, speed, and traffic flow) under CAVs networks; Developing routing algorithms and platooning strategies for CAVs to minimize the impacts of uncertainties in the vehicle dynamics (e.g., dynamic road environments and traffic congestion); Applications: Vehicle routing, Autonomous truck scheduling, Traffic management</p>
+      Prior to joining Purdue, I was a researcher at Seoul National University from 2018-2020, where my research focused on developing operational strategies of demand responsive transport for the disabled (i.e., routing problem of multi-capacity vehicle) and modeling lane change behaviors on freeways and gap acceptance behaviors at roundabouts in real driving situations and virtual reality. Previously, I completed BSc (2016) and MSc (2018) in Civil and environmental Engineering at Seoul National University.
 
 education:
     - degree: <b>Purdue University</b>
