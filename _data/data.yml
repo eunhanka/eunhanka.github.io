@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Eunhan Ka
-    tagline: Ph.D. Student <a href="CV_Eunhan_Nov2020.pdf" target="_blank"> <b>[CV]</b> </a>
+    tagline: Ph.D. Student <a href="CV_Eunhan_Jan2023.pdf" target="_blank"> <b>[CV]</b> </a>
     tagline2: Lyles School of Civil Engineering, <br> Purdue University
     avatar: Profile_EH.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -16,8 +16,8 @@ sidebar:
     email: kae@purdue.edu 
     phone: 
     website: eunhanka.github.io #do not add http://
-    linkedin: eunhan-ka-86111a116/
-    github:
+    linkedin: eunhanka
+    github: eunhanka
     gitlab:
     bitbucket:
     twitter: '@EunhanKa'
@@ -30,8 +30,9 @@ sidebar:
       - idiom: Korean
 
 career-profile:
-    title: <b>Research Interests</b>
+    title: <b>Biography</b>
     summary: |
+
       <p><b> - Network Modeling</b>: Developing the solution techniques required to improve the efficiency and resilience of transportation networks, such as such as public transit, infrastructure, and logistics in uncertain and unpredictable conditions</p>
       <p><b> - Mobility Service</b>: Developing the real-time operation strategy of mobility services (such as car-sharing, bike-sharing, and ride-sharing) in uncertain and dynamic conditions</p>
       <p><b> - User Behavior</b>: Understanding the characteristics of transportation users’ behaviors (such as mode choice, shortest path algorithm, routing, and driving behavior)</p>
@@ -42,7 +43,7 @@ education:
       time: Aug. 2020 - Present
       details: |
         <p>Courses: <br>
-        	Probabilistic Machine Learning (CS592), Large-Scale Networks (ECE695), Optimization, "Optimization, Game Theory, and Uncertainty" (IE695), Statistical Machine Learning II (CS 690), Network Models for Connected Autonomous Vehicles (CE 597), Dynamic Programming (IE 633), Stochastic Networks (IE 590), Smart Logistics (CE 597), Optimization Methods for Systems And Control (ECE 580), Introduction To Deep Learning (ECE 595) </p>
+        	Dynamic Transportation Models (CE597), Vehicular Cyber-Physical Systems (CE597), Probabilistic Machine Learning (CS592), Large-Scale Networks (ECE695), Optimization, "Optimization, Game Theory, and Uncertainty" (IE695), Statistical Machine Learning II (CS 690), Network Models for Connected Autonomous Vehicles (CE 597), Dynamic Programming (IE 633), Stochastic Networks (IE 590), Smart Logistics (CE 597), Optimization Methods for Systems And Control (ECE 580), Introduction To Deep Learning (ECE 595) </p>
         
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Department of Civil and Environmental Engineering</i>
@@ -67,36 +68,28 @@ education:
 research_experiences:
     - role: <b>Research Assistant</b>
       time: Aug. 2020 - Present
-      company: <i>Lyles School of Civil Engineering, Purdue University</i>
+      company: <i>Purdue University</i>
       details: |
         <p> - Develop a novel framework for modeling traffic dynamics with physics-informed deep learning in large-scale urban areas </p>
         <p> - Predict origin-destination matrices based on mobile location data (Sponsor: INDOT)</p>
         <p> - Analyze the traffic impact of movable barrier (Alex Fraser Bridge) in Vancouver by leveraging the mobile location data (Sponsor: Lindsay Corporation)</p>
 
     - role: <b>Researcher</b>
-      time: Jan. 2020 - Aug. 2020
-      company: <i>Institute of Engineering Research, Seoul National University</i>
+      time: Mar. 2018 - Aug. 2020
+      company: <i>Seoul National University</i>
       details: |
-        <p> - Led a study on designing a cluster-based route of multi-capacity vehicles of a demand responsive transport service for the disabled and analyze the quantitative effects of shared parking services & last-mile mobility services</p>
-        <p> - Contributed to the preparation grant proposals for government-funded research projects</p>
-        
-    - role: <b>Researcher</b>
-      time: Mar. 2018 - Dec. 2019
-      company: <i>Institute of Construction and Environmental Engineering, Seoul National University</i>
-      details: |
+        <p> - Led a study on designing a cluster-based route of multi-capacity vehicles of demand-responsive transport services for the disabled and analyzing the quantitative effects of shared parking services & last-mile mobility services</p>
         <p> - Developed optimal operation strategies of Mobility-as-a-Service (MaaS) for the mobility impaired (such as disabled or elderly people)</p>
         <p> - Modelled lane change behaviors on freeways and gap acceptance behaviors at roundabouts in real driving situations and virtual reality</p>
-        <p> - Collaborated and coordinated with faculty members, businessmen, researchers, and fellow graduate students across institutes to develop proposals (with University of Seoul, Radius Corporation, Korea Land & Housing Institute)</p>
-
-#          - Bullet point
+        <p> - Collaborated and coordinated with faculty members, businessmen, researchers, and fellow graduate students at University of Seoul, Radius Corporation, Korea Land \& Housing Institute</p>
 
     - role: <b>Research Assistant</b>
       time: Mar. 2016 - Feb. 2018
-      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
+      company: <i>Seoul National University</i>
       details: |
         <p> - Designed a real-time relocation strategy for one-way car-sharing and developed an event-based simulation for one-way car-sharing services</p>
-        <p> - Led a study on improving demand responsive transport service for the disabled with shared mobility in Seoul and led a study on developing an evaluation method to evaluate drivers’ behaviors with surrogate safety measures</p>
-        <p> - Collaborated and coordinated with faculty, businessmen, and researchers at the Korea Transport Institute, Korea Transportation Safety Authority, and InnoSim</p>
+        <p> - Led a study on improving demand-responsive transport services for the disabled with shared mobility in Seoul and developed an evaluation method to evaluate drivers’ behaviors with surrogate safety measures</p>
+        <p> - Collaborated and coordinated with faculty members, businessmen, and researchers at the Korea Transport Institute, Korea Transportation Safety Authority, and InnoSim</p>
 
 experiences:
     - role: <b>Teaching Assistant</b>
@@ -105,9 +98,9 @@ experiences:
       details: |
         <p> - Assist in preparing and teaching course material, answer questions, and mark assignments</p>
         Course:
-          - (Graduate Course) CE 597 - Netowrk Models for Connected Autonomous Vehicles (Spring 2022, Fall 2021)
-          - (Graduate Course) CE 597 - Smart Logistics (Fall 2021, Graduate)
-          - (Graduate Course) CE 597 - Data Science for Smart Cities - CE597 (Spring 2021, Graduate), <a href="https://www.edx.org/course/data-science-for-smart-cities" target="_blank"> <b>[edX]</b> </a>
+          - CE 597 - Netowrk Models for Connected Autonomous Vehicles (Spring 2022, Fall 2021)
+          - CE 597 - Smart Logistics (Fall 2021, Graduate)
+          - CE 597 - Data Science for Smart Cities - CE597 (Spring 2021, Graduate), <a href="https://www.edx.org/course/data-science-for-smart-cities" target="_blank"> <b>[edX]</b> </a>
 
     - role: <b>Lecturer, Introduction to Civil and Environmental Engineering</b>
       time: Nov. 2019
@@ -139,13 +132,13 @@ publications:
     title: <b>Publications (Journal)</b>
     intro: |
     papers:
-      - title: (In preparation) PIML-GBM &#58; A Physics-Informed Machine Learning for Estimating Traffic State with a Generalized Bathtub Model in Large-scale Urban Networks
-        authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Le Satish V. Ukkusuri
+      - title: (In review) PIML-GBM &#58; A Physics-Informed Machine Learning for Estimating Traffic State with a Generalized Bathtub Model in Large-scale Urban Networks
+        authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Leclercq, Satish V. Ukkusuri
         conference: Transportation Science
 
-      - title: 3. Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management &#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
+      - title: 3. <b>2022 Editor's Choice Collections</b>Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management &#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Smita Sharma, Satish V. Ukkusuri
-        conference: Journal of Transportation Engineering, Part A &#58; Systems (2022), </p><b>This paper was one of the 2022 Editor's Choice Collections</b>
+        conference: Journal of Transportation Engineering, Part A &#58; Systems (2022)
         
       - title: 2. Implementing Surrogate Safety Measures in Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Risky Driving Behaviors <a href="https://doi.org/10.1155/2020/7525721" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Do-gyeong Kim, Jooneui Hong, Chungwon Lee
@@ -159,8 +152,8 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
-      - title: (Submitted) Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
-        authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng FengSatish V. Ukkusuri
+      - title: (In review) Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
+        authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
 
       - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
@@ -171,33 +164,33 @@ con_publications:
         authors: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
         conference: International Conference for Road Engineers, South Korea (2018)
         
-      - title: 7. Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Dsiabled in Seoul Using Long Short-Term Memory (LSTM) Network
+      - title: 7. Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Disabled in Seoul Using Long Short-Term Memory (LSTM) Network
         authors: Doosun Hong, <b>Eunhan Ka</b>, Sunghyun Ha, Chungwon Lee
-        conference: The 78th Korean Society of Transportation Conference, South Korea (2018)
+        conference: 78th Korean Society of Transportation Conference, South Korea (2018)
         
       - title: 6. Application of Deep Learning for Demand Forecasting of Call Taxi for the Handicapped in Seoul
         authors: <b>Eunhan Ka</b>, Sunghyun Ha, Jooneui Hong, Chungwon Lee
-        conference: The 77th Korean Society of Transportation Conference, South Korea (2017)
+        conference: 77th Korean Society of Transportation Conference, South Korea (2017)
         
       - title: 5. A Preliminary Study of Comparison with Lane Changing Model Parameters in Merging Area between Normal and Raining Conditions
         authors: <b>Eunhan Ka</b>, Sunho Kim, Jooneui Hong, Chungwon Lee
-        conference: The 12th International Conference of Eastern Asia's Society for Transportation Studies (EASTS), Vietnam (2017)
+        conference: 12th International Conference of Eastern Asia's Society for Transportation Studies (EASTS), Vietnam (2017)
       
       - title: 4. The Importance of Demand Prediction for Vehicle Relocation Strategy Development in One-way Car-sharing System
         authors: <b>Eunhan Ka</b>, Dongjoon Woo, Chungwon Lee
-        conference: The Third International Conference on Computational Science and Engineering, Vietnam (2016)
+        conference: 3rd International Conference on Computational Science and Engineering, Vietnam (2016)
         
       - title: 3. An Estimation of Critical Gap for Gap Acceptance Model Applied to Lane Change of Surrounding Vehicles in Driving Simulator
         authors: <b>Eunhan Ka</b>, Sunho Kim, Dongjoon Woo, Chungwon Lee
-        conference: The 2016 Fall Korea Institute of ITS Conference, South Korea (2016)
+        conference: 2016 Fall Korea Institute of ITS Conference, South Korea (2016)
         
       - title: 2. Comparison of Survival Model of Traffic Flow Deterioration due to Traffic Accident according to VDS Aggregation Level
         authors: <b>Eunhan Ka</b>, Sanghyup Lee, Jaeyoung Lee, Chungwon Lee
-        conference: The 75th Korean Society of Transportation Conference, South Korea (2016)
+        conference: 75th Korean Society of Transportation Conference, South Korea (2016)
         
       - title: 1. Analysis of Traffic Flow Impacts of Highway Traffic Accidents Using Survival Analysis
         authors: Sanghyup Lee, Hyunkyung Lee, Jaeyoung Lee, <b>Eunhan Ka</b>, Chungwon Lee
-        conference: The 74th Korean Society of Transportation Conference, South Korea (2016) 
+        conference: 74th Korean Society of Transportation Conference, South Korea (2016)
         
 
 awards:
