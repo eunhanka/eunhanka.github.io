@@ -32,13 +32,13 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      I am a PhD student in the in <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>the Lyles School of Civil Engineering</b></a> and <a href="http://www.satishukkusuri.com/" target="_blank"> <b>the UMNILAB (advisor: Dr. Satish V. Ukkusuri)</b></a> at Purdue University  since August 2020.
+      I am a PhD student in the in <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil Engineering</b></a> and <a href="http://www.satishukkusuri.com/" target="_blank"> <b>UMNILAB (advisor: Dr. Satish V. Ukkusuri)</b></a> at Purdue University  since August 2020.
       Prior to joining Purdue, I was a researcher at Seoul National University from 2018-2020, where my research focused on developing operational strategies of demand responsive transport for the disabled (i.e., routing problem of multi-capacity vehicle) and modeling lane change behaviors on freeways and gap acceptance behaviors at roundabouts in real driving situations and virtual reality. Previously, I completed BSc (2016) and MSc (2018) in Civil and environmental Engineering at Seoul National University.
       Now, My research focuses on as follows:
          <p><b> - Network Traffic Model</b>: Modeling traffic dynamics in large-scale urban areas from physics-informed machine learning and mathematical traffic flow model; </p>
-         <p><i>    Applications: Perimeter control, Traffic signal control, Traffic estimation</i></p>
+         <br><i>    Applications: Perimeter control, Traffic signal control, Traffic estimation</i>
          <p><b> - Emerging Technologies for Intelligent Transportation Systems</b>: Estimating traffic states (e.g., traffic density, speed, and traffic flow) under CAVs networks; Developing routing algorithms and platooning strategies for CAVs to minimize the impacts of uncertainties in the vehicle dynamics (e.g., dynamic road environments and traffic congestion);</p>
-         <p><i>    Applications:  Autonomous Vehicle routing, Autonomous truck scheduling, Traffic management</i></p>
+         <br>><i>    Applications:  Autonomous Vehicle routing, Autonomous truck scheduling, Traffic management</i>
 
 education:
     - degree: <b>Purdue University</b>
