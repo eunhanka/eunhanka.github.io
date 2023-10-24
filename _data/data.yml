@@ -135,7 +135,7 @@ publications:
     papers:
       - title: (In review) PIML-GBM &#58; A Physics-Informed Machine Learning for Estimating Traffic State with a Generalized Bathtub Model in Large-scale Urban Networks
         authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Leclercq, Satish V. Ukkusuri
-        conference: transportation Research Part C: Emerging Technologies
+        conference: Transportation Research Part C &#58; Emerging Technologies
 
       - title: 3. <b>[2022 Editor's Choice Collections]</b> Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management &#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Smita Sharma, Satish V. Ukkusuri
@@ -157,7 +157,7 @@ con_publications:
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
 
-      - title: 12. (Accepted) PIDL-PedFlow: A Physics-Informed Deep Learning Approach for Macroscopic Continuum Pedestrian Flow Modelling
+      - title: 12. (Accepted) PIDL-PedFlow &#58; A Physics-Informed Deep Learning Approach for Macroscopic Continuum Pedestrian Flow Modelling
         authors: <b>Eunhan Ka</b>, Jiawei Xue, Satish V. Ukkusuri
         conference: 103rd Annual Meeting of the Transportation Research Board, Washington DC, United States (2024)
 
@@ -165,7 +165,7 @@ con_publications:
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Washim Uddin Mondal, Satish V. Ukkusuri
         conference: 103rd Annual Meeting of the Transportation Research Board, Washington DC, United States (2024)
 
-      - title: 10. Dynamic Routing Games for Connected and Autonomous Vehicles with Traffic Congestion: A Mean Field Game Approach
+      - title: 10. Dynamic Routing Games for Connected and Autonomous Vehicles with Traffic Congestion &#58; A Mean Field Game Approach
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: 2023 INFORMS Annual Meeting, Phoenix, Arizona, United States (2023)
 
