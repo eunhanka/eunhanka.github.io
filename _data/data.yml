@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Eunhan Ka
-    tagline: Ph.D. Student <a href="CV_Eunhan_Jan2023.pdf" target="_blank"> <b>[CV]</b> </a>
+    tagline: Ph.D. Student <a href="CV_Eunhan_Oct2023.pdf" target="_blank"> <b>[CV]</b> </a>
     tagline2: Lyles School of Civil Engineering, <br> Purdue University
     avatar: Profile_EH.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -110,12 +110,12 @@ experiences:
         <p> - Taught transportation engineering and trends of mobility services to 50 undergraduate students</p>
         <p> - Covered areas of transportation engineering, status and issues of transportation in South Korea, future sustainable transportation systems, and transportation laws in South Korea</p>
 
-    - role: <b>Mentor, Youth Engineering Frontier Camp</b>
-      time: Aug. 2017, Feb. 2018
-      company: <i>College of Engineering, Seoul National University</i>
-      details: |
-        <p> - Taught traffic engineering and the basic theory of traffic flow to 10 high school students</p>
-        <p> - Advised students concerning preparing for admission to universities and consulted with the students about the difficulties they encountered in high school</p>
+    # - role: <b>Mentor, Youth Engineering Frontier Camp</b>
+    #   time: Aug. 2017, Feb. 2018
+    #   company: <i>College of Engineering, Seoul National University</i>
+    #   details: |
+    #     <p> - Taught traffic engineering and the basic theory of traffic flow to 10 high school students</p>
+    #     <p> - Advised students concerning preparing for admission to universities and consulted with the students about the difficulties they encountered in high school</p>
 
     - role: <b>Teaching Assistant</b>
       time: Sep. 2016 - Dec. 2017
@@ -135,7 +135,7 @@ publications:
     papers:
       - title: (In review) PIML-GBM &#58; A Physics-Informed Machine Learning for Estimating Traffic State with a Generalized Bathtub Model in Large-scale Urban Networks
         authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Leclercq, Satish V. Ukkusuri
-        conference: Transportation Science
+        conference: transportation Research Part C: Emerging Technologies
 
       - title: 3. <b>[2022 Editor's Choice Collections]</b> Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management &#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Smita Sharma, Satish V. Ukkusuri
@@ -156,6 +156,18 @@ con_publications:
       - title: (In review) Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
+
+      - title: 12. (Accepted) PIDL-PedFlow: A Physics-Informed Deep Learning Approach for Macroscopic Continuum Pedestrian Flow Modelling
+        authors: <b>Eunhan Ka</b>, Jiawei Xue, Satish V. Ukkusuri
+        conference: 103rd Annual Meeting of the Transportation Research Board, Washington DC, United States (2024)
+
+      - title: 11. (Accepted) Generating Network-Level Dynamic Traffic Equations Using Symbolic Regression
+        authors: Jiawei Xue, <b>Eunhan Ka</b>, Washim Uddin Mondal, Satish V. Ukkusuri
+        conference: 103rd Annual Meeting of the Transportation Research Board, Washington DC, United States (2024)
+
+      - title: 10. Dynamic Routing Games for Connected and Autonomous Vehicles with Traffic Congestion: A Mean Field Game Approach
+        authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
+        conference: 2023 INFORMS Annual Meeting, Phoenix, Arizona, United States (2023)
 
       - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
         authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
@@ -195,6 +207,11 @@ con_publications:
         
 
 awards:
+    - role: Crooks Travel Scholarship
+      time: Sep. 2023
+      company: <i>Lyles School of Civil Engineering, Purdue University</i>
+      details: |
+
     - role: Outstanding Paper Award
       time: Mar. 2018
       company: <i>The 78th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
