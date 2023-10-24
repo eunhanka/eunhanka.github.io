@@ -32,7 +32,7 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      I am a Ph.D. student in the <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil Engineering</b></a> and <a href="http://www.satishukkusuri.com/" target="_blank"> <b>UMNILAB (advisor: Dr. Satish V. Ukkusuri)</b></a> at Purdue University  since August 2020. I published one <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>published paper</b></a> and two papers in the revfiew.
+      I am a Ph.D. student in the <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil Engineering</b></a> and <a href="http://www.satishukkusuri.com/" target="_blank"> <b>UMNILAB (advisor: Dr. Satish V. Ukkusuri)</b></a> at Purdue University  since August 2020. I published one <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>published paper</b></a> and two papers in the review.
       Prior to joining Purdue, I was a researcher at Seoul National University from 2018-2020, where my research focused on developing multi-capacity vehicle routing problem of demand responsive transport for the disabled (presented in <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/13846" target="_blank"> <b>99th TRB Annual Meeting</b></a>), and modeling lane change behaviors on freeways and gap acceptance behaviors at roundabouts in real driving situations and virtual reality (published in Journal of Advanced Transportation <a href="https://doi.org/10.1155/2018/2726732" target="_blank"> <b>2018</b></a> and <a href="https://doi.org/10.1155/2020/7525721" target="_blank"> <b>2020</b></a>). Previously, I completed BSc (2016) and MSc (2018) in Civil and Environmental Engineering at Seoul National University.
       Now, My research focuses on as follows:
          <p><b> - Network Traffic Model</b>: Modeling traffic dynamics in large-scale urban areas from physics-informed machine learning and mathematical traffic flow model; Quantifying uncertainties of road traffic dynamics from generative models; Identifying relationships between network structures and traffic dynamics  <br><i>    Applications: Perimeter control, Traffic signal control, Traffic estimation, Transportation Network Design</i></p>
@@ -99,7 +99,7 @@ experiences:
       details: |
         <p> - Assist in preparing and teaching course material, answer questions, and mark assignments</p>
         Course:
-          - CE 597 - Netowrk Models for Connected Autonomous Vehicles (Spring 2022, Fall 2021)
+          - CE 597 - Network Models for Connected Autonomous Vehicles (Spring 2022, Fall 2021)
           - CE 597 - Smart Logistics (Fall 2021, Graduate)
           - CE 597 - Data Science for Smart Cities - CE597 (Spring 2021, Graduate), <a href="https://www.edx.org/course/data-science-for-smart-cities" target="_blank"> <b>[edX]</b> </a>
 
@@ -121,7 +121,7 @@ experiences:
       time: Sep. 2016 - Dec. 2017
       company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
       details: |
-        <p> - Assisted in preparing and teaching course material for core subjects of transportation in undergraduate and graduate program, had office hours every week, answered questions in person, and marked assignments & exams</p>
+        <p> - Assisted in preparing and teaching course material for core subjects of transportation in undergraduate and graduate programs, had office hours every week, answered questions in person, and marked assignments & exams</p>
         <p> - Supervised undergraduate student’s projects in terms of analyzing smart-card data, implementing clustering algorithms, and visualizing GPS data</p>
         Course:
           - Sustainable Transportation Systems 		      (Fall 2017,   Undergraduate)
