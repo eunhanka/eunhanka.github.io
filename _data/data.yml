@@ -71,7 +71,8 @@ research_experiences:
       time: Aug. 2020 - Present
       company: <i>Purdue University</i>
       details: |
-        <p> - Develop a novel framework for modeling traffic dynamics with physics-informed deep learning in large-scale urban areas </p>
+        <p> - Develop a pioneering framework to bolster road network resilience against cyber-attacks in extensive road networks and mitigate cyber attack’s impact by using defense strategies. (Sponsor: USDOT) </p>
+        <p> - Introduce a groundbreaking framework for modeling traffic dynamics using physics-informed deep learning, enabling predictions of traffic impacts due to connected and autonomous vehicles in cyberphysical systems within large-scale urban areas. </p>
         <p> - Predict origin-destination matrices based on mobile location data (Sponsor: INDOT)</p>
         <p> - Analyze the traffic impact of movable barrier (Alex Fraser Bridge) in Vancouver by leveraging the mobile location data (Sponsor: Lindsay Corporation)</p>
 
