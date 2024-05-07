@@ -138,7 +138,7 @@ publications:
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: Transportation Research Part B &#58; Methodological
     
-      - title: (In review) PIML-GBM &#58; A Physics-Informed Machine Learning for Estimating Traffic State with a Generalized Bathtub Model in Large-scale Urban Networks
+      - title: (In review) A Physics-Informed Machine Learning for Generalized Bathtub Model in Large-Scale Urban Networks
         authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Leclercq, Satish V. Ukkusuri
         conference: Transportation Research Part C &#58; Emerging Technologies
 
