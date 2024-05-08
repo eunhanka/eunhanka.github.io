@@ -71,8 +71,8 @@ research_experiences:
       time: Aug. 2020 - Present
       company: <i>Purdue University</i>
       details: |
-        <p> - Develop a pioneering framework to bolster road network resilience against cyber-attacks in extensive road networks and mitigate cyber attack’s impact by using defense strategies. (Sponsor: USDOT) </p>
-        <p> - Introduce a groundbreaking framework for modeling traffic dynamics using physics-informed deep learning, enabling predictions of traffic impacts due to connected and autonomous vehicles in cyberphysical systems within large-scale urban areas. </p>
+        <p> - Develop a pioneering framework to bolster road network resilience against cyber-attacks in extensive road networks and mitigate cyber attack’s impact by using defense strategies. (Sponsor: USDOT - NATIONAL CENTER FOR TRANSPORTATION CYBERSECURITY AND RESILIENCY [TraCR]) </p>
+        <p> - Introduce a groundbreaking framework for modeling traffic dynamics using physics-informed deep learning, enabling predictions of traffic impacts due to connected and autonomous vehicles in cyberphysical systems within large-scale urban areas. (Sponsor: USDOT - NATIONAL CENTER FOR TRANSPORTATION CYBERSECURITY AND RESILIENCY [TraCR]) </p>
         <p> - Predict origin-destination matrices based on mobile location data (Sponsor: INDOT)</p>
         <p> - Analyze the traffic impact of movable barrier (Alex Fraser Bridge) in Vancouver by leveraging the mobile location data (Sponsor: Lindsay Corporation)</p>
 
@@ -140,7 +140,7 @@ publications:
     
       - title: (Accepted) A Physics-Informed Machine Learning for Generalized Bathtub Model in Large-Scale Urban Networks
         authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Leclercq, Satish V. Ukkusuri
-        conference: Transportation Research Part C &#58; Emerging Technologies
+        conference: Transportation Research Part C &#58; Emerging Technologies (2024)
 
       - title: 3. <b>[2022 Editor's Choice Collections]</b> Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management &#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Smita Sharma, Satish V. Ukkusuri
