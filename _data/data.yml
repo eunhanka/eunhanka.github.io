@@ -33,9 +33,12 @@ career-profile:
     title: <b>Biography</b>
     summary: |
       I am a Ph.D. student in the <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil Engineering</b></a> at Purdue University, where I have been conducting research in the <a href="http://www.satishukkusuri.com/" target="_blank"> <b>UMNILAB</b></a> under the guidance of Dr. Satish V. Ukkusuri since August 2020. My research focuses on developing a pioneering, scalable framework for enhancing the resilience of network traffic dynamics in Connected and Autonomous Vehicles (CAVs) against cyber threats.      
+      
       Now, my research focuses on the following areas:
+      
           <p><b>- Network Traffic Modeling</b>: Developing innovative models to capture traffic dynamics in large-scale urban networks (PIML-GBM), quantify uncertainties in road traffic dynamics, and identify relationships between traffic dynamics and features. <br><i>Applications: Traffic estimation, Perimeter control, Traffic signal control, Transportation Network Design</i></p>
           <p><b>- Emerging Technologies for Intelligent Transportation Systems</b>: Estimating critical traffic states in CAV environments, developing deep learning frameworks for dynamic traffic assignment, and integrating game-theoretical concepts for simulating traffic dynamics and routing behaviors under cyber threats. <br><i>Applications: Autonomous Vehicle routing, Autonomous truck scheduling, IoT Cybersecurity</i></p>
+      
       By bridging theoretical models with practical applications, my research contributes to the development of more efficient transportation systems and represents a significant advancement in ensuring the resilience of CAV network traffic dynamics against the growing threat of cyberattacks in an increasingly connected world.
 
 education:
@@ -142,9 +145,9 @@ publications:
         authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Leclercq, Satish V. Ukkusuri
         conference: Transportation Research Part C&#58; Emerging Technologies (2024)
 
-      - title: 3. <b>[2022 Editor's Choice Collections]</b> Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management &#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
+      - title: 3. <b>[2022 Editor's Choice Collections]</b> Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management&#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Smita Sharma, Satish V. Ukkusuri
-        conference: Journal of Transportation Engineering, Part A &#58; Systems (2022)
+        conference: Journal of Transportation Engineering, Part A&#58; Systems (2022)
         
       - title: 2. Implementing Surrogate Safety Measures in Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Risky Driving Behaviors <a href="https://doi.org/10.1155/2020/7525721" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Do-gyeong Kim, Jooneui Hong, Chungwon Lee
@@ -162,7 +165,7 @@ con_publications:
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
 
-      - title: 13. <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/21366" target="_blank"> PIDL-PedFlow &#58; A Physics-Informed Deep Learning Approach for Macroscopic Continuum Pedestrian Flow Modelling</a> 
+      - title: 13. <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/21366" target="_blank"> PIDL-PedFlow&#58; A Physics-Informed Deep Learning Approach for Macroscopic Continuum Pedestrian Flow Modelling</a> 
         authors: <b>Eunhan Ka</b>, Jiawei Xue, Satish V. Ukkusuri
         conference: 103rd Annual Meeting of the Transportation Research Board, Washington DC, United States (2024)
 
@@ -174,7 +177,7 @@ con_publications:
         authors: Smita Sharma, <b>Eunhan Ka</b>
         conference: 103rd Annual Meeting of the Transportation Research Board, Washington DC, United States (2024)
 
-      - title: 10. Dynamic Routing Games for Connected and Autonomous Vehicles with Traffic Congestion &#58; A Mean Field Game Approach
+      - title: 10. Dynamic Routing Games for Connected and Autonomous Vehicles with Traffic Congestion&#58; A Mean Field Game Approach
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: 2023 INFORMS Annual Meeting, Phoenix, Arizona, United States (2023)
 
