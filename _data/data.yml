@@ -32,13 +32,10 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      I am a Ph.D. student in the <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil Engineering</b></a> at Purdue University, where I have been conducting research in the <a href="http://www.satishukkusuri.com/" target="_blank"> <b>UMNILAB</b></a> under the guidance of Dr. Satish V. Ukkusuri since August 2020. My research focuses on developing a pioneering, scalable framework for enhancing the resilience of network traffic dynamics in Connected and Autonomous Vehicles (CAVs) against cyber threats.      
-      
+      I am a Ph.D. student in the <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil Engineering</b></a> at Purdue University, where I have been conducting research in the <a href="http://www.satishukkusuri.com/" target="_blank"> <b>UMNILAB</b></a> under the guidance of Dr. Satish V. Ukkusuri since August 2020. My research focuses on developing a pioneering, scalable framework for enhancing the resilience of network traffic dynamics in Connected and Autonomous Vehicles (CAVs) against cyber threats.
       Now, my research focuses on the following areas:
-      
-          <p><b>- Network Traffic Modeling</b>: Developing innovative models to capture traffic dynamics in large-scale urban networks (PIML-GBM), quantify uncertainties in road traffic dynamics, and identify relationships between traffic dynamics and features. <br><i>Applications: Traffic estimation, Perimeter control, Traffic signal control, Transportation Network Design</i></p>
-          <p><b>- Emerging Technologies for Intelligent Transportation Systems</b>: Estimating critical traffic states in CAV environments, developing deep learning frameworks for dynamic traffic assignment, and integrating game-theoretical concepts for simulating traffic dynamics and routing behaviors under cyber threats. <br><i>Applications: Autonomous Vehicle routing, Autonomous truck scheduling, IoT Cybersecurity</i></p>
-      
+          <p> - <b>Network Traffic Modeling</b>: Developing innovative models to capture traffic dynamics in large-scale urban networks (PIML-GBM), quantify uncertainties in road traffic dynamics, and identify relationships between traffic dynamics and features. <br><i>Applications: Traffic estimation, Perimeter control, Traffic signal control, Transportation Network Design</i></p>
+          <p> - <b>Emerging Technologies for Intelligent Transportation Systems</b>: Estimating critical traffic states in CAV environments, developing deep learning frameworks for dynamic traffic assignment, and integrating game-theoretical concepts for simulating traffic dynamics and routing behaviors under cyber threats. <br><i>Applications: Autonomous Vehicle routing, Autonomous truck scheduling, IoT Cybersecurity</i></p>
       By bridging theoretical models with practical applications, my research contributes to the development of more efficient transportation systems and represents a significant advancement in ensuring the resilience of CAV network traffic dynamics against the growing threat of cyberattacks in an increasingly connected world.
 
 education:
