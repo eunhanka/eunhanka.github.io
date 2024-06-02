@@ -134,7 +134,7 @@ publications:
     title: <b>Publications (Journal)</b>
     intro: |
     papers:
-      - title: (Accepted) Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
+      - title: 5. (Accepted) Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: Transportation Research Part B&#58; Methodological (2024)
     
