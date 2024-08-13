@@ -158,6 +158,10 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
+      - title: 15. Impact of Cyber Attacks on Traffic State Estimation for Connected and Autonomous Vehicles Systems
+        authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
+        conference: The Inaugural USDOT Future of Transportation (FoT) Summit, Washington, D.C., United States (2024)
+        
       - title: 14. Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
