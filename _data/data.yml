@@ -158,6 +158,15 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
+    
+      - title: 17.  Analytical Framework for Network-Level Traffic Flow under Route Guidance Attacks: An Extension of the Generalized Bathtub Model
+        authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
+        conference: 104th Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2025)
+        
+      - title: 16. Comparative Analysis of Sampling Methods in Physics-Informed Neural Networks for Traffic State Estimation in Large-Scale Road Networks
+        authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
+        conference: 104th Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2025)
+        
       - title: 15. Impact of Cyber Attacks on Traffic State Estimation for Connected and Autonomous Vehicles Systems
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: The Inaugural USDOT Future of Transportation (FoT) Summit, Washington, D.C., United States (2024)
@@ -220,6 +229,11 @@ con_publications:
         
 
 awards:
+    - role: STV Civil Engineering Graduate Assistantship Endowment
+      time: Oct. 2024
+      company: <i>Lyles School of Civil Engineering, Purdue University</i>
+      details: |
+      
     - role: 2024 KOTAA Travel Grant Award
       time: Jan. 2024
       company: <i>Korean Transportation Association in America (KOTAA)</i>
