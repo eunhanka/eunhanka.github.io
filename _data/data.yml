@@ -228,6 +228,11 @@ con_publications:
         
 
 awards:
+    - role: Student Paper Award
+      time: Dec. 2024
+      company: <i>ITE Indiana</i>
+      details: |
+      
     - role: Kinnier Graduate Scholarship
       time: Oct. 2024
       company: <i>Lyles School of Civil Engineering, Purdue University</i>
