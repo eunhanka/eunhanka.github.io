@@ -159,19 +159,19 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
-      - title: 17. Analytical Framework for Network-Level Traffic Flow under Route Guidance Attacks&#58; An Extension of the Generalized Bathtub Model
+      - title: 17. <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/23123" target="_blank"> Analytical Framework for Network-Level Traffic Flow under Route Guidance Attacks&#58; An Extension of the Generalized Bathtub Model</a>
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: 104th Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2025)
         
-      - title: 16. Comparative Analysis of Sampling Methods in Physics-Informed Neural Networks for Traffic State Estimation in Large-Scale Road Networks
+      - title: 16. <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/23061" target="_blank"> Comparative Analysis of Sampling Methods in Physics-Informed Neural Networks for Traffic State Estimation in Large-Scale Road Networks</a>
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: 104th Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2025)
         
-      - title: 15. <a href="https://fot-summit.org/?page_id=692" target="_blank">Impact of Cyber Attacks on Traffic State Estimation for Connected and Autonomous Vehicles Systems
+      - title: 15. <a href="https://fot-summit.org/?page_id=692" target="_blank">Impact of Cyber Attacks on Traffic State Estimation for Connected and Autonomous Vehicles Systems</a>
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: The Inaugural USDOT Future of Transportation (FoT) Summit, Washington, D.C., United States (2024)
         
-      - title: 14. <a href="https://limos.engin.umich.edu/isttt25/program" target="_blank">Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
+      - title: 14. <a href="https://limos.engin.umich.edu/isttt25/program" target="_blank"> Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation</a>
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
 
