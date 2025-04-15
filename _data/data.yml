@@ -32,7 +32,7 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      I am a Ph.D. student in the <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil and Construction Engineering</b></a> at Purdue University, where I have been conducting research in the <a href="https://umnilab.github.io/" target="_blank"> <b>UMNILAB</b></a> under the guidance of Dr. Satish V. Ukkusuri since August 2020. My research focuses on developing <b> a pioneering, scalable framework for enhancing the resilience of network traffic dynamics in Connected and Autonomous Vehicles (CAVs) against cyber threats</b>.
+      I am a Ph.D. candidate in the <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil and Construction Engineering</b></a> at Purdue University, where I have been conducting research in the <a href="https://umnilab.github.io/" target="_blank"> <b>UMNILAB</b></a> under the guidance of Dr. Satish V. Ukkusuri since August 2020. My research focuses on developing <b> a pioneering, scalable framework for enhancing the resilience of network traffic dynamics in Connected and Autonomous Vehicles (CAVs) against cyber threats</b>.
       <br><br>Now, my research focuses on the following areas:
           <br>- <b>Network Traffic Modeling</b>: Developing innovative models to capture traffic dynamics in large-scale urban networks (PIML-GBM), quantify uncertainties in road traffic dynamics, developing deep learning frameworks for dynamic traffic assignment, and identifying relationships between traffic dynamics and features. <br><i>Applications: Traffic estimation, Perimeter control, Transportation Network Design</i>
           <br>- <b>Emerging Technologies for Intelligent Transportation Systems</b>: Estimating critical traffic states in CAV environments, analyzing network failures and recovery in CAV systems under cyber threats, and developing mitigation strategies for cyber threats under CAV systems. <br><i>Applications: Cybersecurity, Digital Twin, Autonomous vehicle routing</i>
@@ -98,7 +98,7 @@ experiences:
       time: Jan. 2021 - Dec. 2024
       company: <i>Lyles School of Civil and Construction Engineering, Purdue University </i>
       details: |
-        <p> - Assist in preparing and teaching course material, answer questions, and mark assignments</p>
+        <p> - Assisted in preparing and teaching course material, answer questions, and mark assignments</p>
         Course:
           - CE 661 - Algorithms in Transportation (Fall 2024, Graduate)
           - CE 597 - Network Models for Connected Autonomous Vehicles (Fall 2023, Spring 2023, Spring 2022, Fall 2021)
