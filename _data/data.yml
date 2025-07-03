@@ -135,6 +135,10 @@ publications:
     title: <b>Publications (Journal)</b>
     intro: |
     papers: 
+      - title: 6. <a href="https://dl.acm.org/doi/10.1145/3744352" target="_blank"> Cybersecurity for next-generation road transportation: A review </a> 
+        authors: Satish V. Ukkusuri, Omar Faruqe Hamim, Zengxiang Lei, <b>Eunhan Ka</b>, M Sabbir Salek, Mashrur A Chowdhury, M Hadi Amini, Alvaro A. Cardenas, Bhavani Thuraisingham
+        conference: ACM Journal on Autonomous Transportation Systems (2025)
+        
       - title: 5. <a href="https://doi.org/10.1016/j.trb.2024.102996" target="_blank"> Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation </a> 
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: Transportation Research Part B&#58; Methodological (2024)
