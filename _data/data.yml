@@ -135,6 +135,9 @@ publications:
     title: <b>Publications (Journal)</b>
     intro: |
     papers: 
+      - title: 7. <a href="https://doi.org/10.1016/j.trf.2025.103354" target="_blank"> Route guidance attacks in cyber transportation networks&#58; a user-centered study of behavioral sensitivity </a> 
+        authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
+        conference: Transportation Research Part F: Traffic Psychology and Behaviour (2025)
       - title: 6. <a href="https://dl.acm.org/doi/10.1145/3744352" target="_blank"> Cybersecurity for Next-Generation Road Transportation&#58; A Review </a> 
         authors: Satish V. Ukkusuri, Omar Faruqe Hamim, Zengxiang Lei, <b>Eunhan Ka</b>, M Sabbir Salek, Mashrur A Chowdhury, M Hadi Amini, Alvaro A. Cardenas, Bhavani Thuraisingham
         conference: ACM Journal on Autonomous Transportation Systems (2025)
