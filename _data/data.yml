@@ -166,69 +166,57 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
-      - title: 17. <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/23123" target="_blank"> Analytical Framework for Network-Level Traffic Flow under Route Guidance Attacks&#58; An Extension of the Generalized Bathtub Model</a>
+      - title: 14. <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/23123" target="_blank"> Analytical Framework for Network-Level Traffic Flow under Route Guidance Attacks&#58; An Extension of the Generalized Bathtub Model</a>
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: 104th Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2025)
         
-      - title: 16. <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/23061" target="_blank"> Comparative Analysis of Sampling Methods in Physics-Informed Neural Networks for Traffic State Estimation in Large-Scale Road Networks</a>
+      - title: 13. <a href="https://annualmeeting.mytrb.org/OnlineProgramArchive/Details/23061" target="_blank"> Comparative Analysis of Sampling Methods in Physics-Informed Neural Networks for Traffic State Estimation in Large-Scale Road Networks</a>
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: 104th Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2025)
         
-      - title: 15. <a href="https://fot-summit.org/?page_id=692" target="_blank">Impact of Cyber Attacks on Traffic State Estimation for Connected and Autonomous Vehicles Systems</a>
+      - title: 12. <a href="https://fot-summit.org/?page_id=692" target="_blank">Impact of Cyber Attacks on Traffic State Estimation for Connected and Autonomous Vehicles Systems</a>
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: The Inaugural USDOT Future of Transportation (FoT) Summit, Washington, D.C., United States (2024)
         
-      - title: 14. <a href="https://limos.engin.umich.edu/isttt25/program" target="_blank"> Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation</a>
+      - title: 11. <a href="https://limos.engin.umich.edu/isttt25/program" target="_blank"> Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation</a>
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
         conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
 
-      - title: 13. <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/21366" target="_blank"> PIDL-PedFlow&#58; A Physics-Informed Deep Learning Approach for Macroscopic Continuum Pedestrian Flow Modelling</a> 
+      - title: 10. <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/21366" target="_blank"> PIDL-PedFlow&#58; A Physics-Informed Deep Learning Approach for Macroscopic Continuum Pedestrian Flow Modelling</a> 
         authors: <b>Eunhan Ka</b>, Jiawei Xue, Satish V. Ukkusuri
         conference: 103rd Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2024)
 
-      - title: 12. <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/21366" target="_blank"> Generating Network-Level Dynamic Traffic Equations Using Symbolic Regression</a> 
+      - title: 9. <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/21366" target="_blank"> Generating Network-Level Dynamic Traffic Equations Using Symbolic Regression</a> 
         authors: Jiawei Xue, <b>Eunhan Ka</b>, Washim Uddin Mondal, Satish V. Ukkusuri
         conference: 103rd Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2024)
 
-      - title: 11. <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/20813" target="_blank"> Leveraging Location-Based Data for Assessing Network Level Traffic Impact of Lane Management&#58; A Case Study of Alex Fraser Bridge</a>  
+      - title: 8. <a href="https://annualmeeting.mytrb.org/OnlineProgram/Details/20813" target="_blank"> Leveraging Location-Based Data for Assessing Network Level Traffic Impact of Lane Management&#58; A Case Study of Alex Fraser Bridge</a>  
         authors: Smita Sharma, <b>Eunhan Ka</b>
         conference: 103rd Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2024)
 
-      - title: 10. Dynamic Routing Games for Connected and Autonomous Vehicles with Traffic Congestion&#58; A Mean Field Game Approach
+      - title: 7. Dynamic Routing Games for Connected and Autonomous Vehicles with Traffic Congestion&#58; A Mean Field Game Approach
         authors: <b>Eunhan Ka</b>, Satish V. Ukkusuri
         conference: 2023 INFORMS Annual Meeting, Phoenix, Arizona, United States (2023)
 
-      - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
+      - title: 6. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
         authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
         conference: 99th Annual Meeting of the Transportation Research Board, Washington, D.C., United States (2020)
         
-      - title: 8. Analysis of Status in DRT Service for the Disabled in Seoul and Comparison Domestic and Foreign Cases
+      - title: 5. Analysis of Status in DRT Service for the Disabled in Seoul and Comparison Domestic and Foreign Cases
         authors: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
         conference: International Conference for Road Engineers, South Korea (2018)
         
-      - title: 7. Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Disabled in Seoul Using Long Short-Term Memory (LSTM) Network
+      - title: 4. Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Disabled in Seoul Using Long Short-Term Memory (LSTM) Network
         authors: Doosun Hong, <b>Eunhan Ka</b>, Sunghyun Ha, Chungwon Lee
         conference: 78th Korean Society of Transportation Conference, South Korea (2018)
         
-      - title: 6. Application of Deep Learning for Demand Forecasting of Call Taxi for the Handicapped in Seoul
-        authors: <b>Eunhan Ka</b>, Sunghyun Ha, Jooneui Hong, Chungwon Lee
-        conference: 77th Korean Society of Transportation Conference, South Korea (2017)
-        
-      - title: 5. A Preliminary Study of Comparison with Lane Changing Model Parameters in Merging Area between Normal and Raining Conditions
+      - title: 3. A Preliminary Study of Comparison with Lane Changing Model Parameters in Merging Area between Normal and Raining Conditions
         authors: <b>Eunhan Ka</b>, Sunho Kim, Jooneui Hong, Chungwon Lee
         conference: 12th International Conference of Eastern Asia's Society for Transportation Studies (EASTS), Vietnam (2017)
-      
-      - title: 4. The Importance of Demand Prediction for Vehicle Relocation Strategy Development in One-way Car-sharing System
-        authors: <b>Eunhan Ka</b>, Dongjoon Woo, Chungwon Lee
-        conference: 3rd International Conference on Computational Science and Engineering, Vietnam (2016)
         
-      - title: 3. An Estimation of Critical Gap for Gap Acceptance Model Applied to Lane Change of Surrounding Vehicles in Driving Simulator
+      - title: 2. An Estimation of Critical Gap for Gap Acceptance Model Applied to Lane Change of Surrounding Vehicles in Driving Simulator
         authors: <b>Eunhan Ka</b>, Sunho Kim, Dongjoon Woo, Chungwon Lee
         conference: 2016 Fall Korea Institute of ITS Conference, South Korea (2016)
-        
-      - title: 2. Comparison of Survival Model of Traffic Flow Deterioration due to Traffic Accident according to VDS Aggregation Level
-        authors: <b>Eunhan Ka</b>, Sanghyup Lee, Jaeyoung Lee, Chungwon Lee
-        conference: 75th Korean Society of Transportation Conference, South Korea (2016)
         
       - title: 1. Analysis of Traffic Flow Impacts of Highway Traffic Accidents Using Survival Analysis
         authors: Sanghyup Lee, Hyunkyung Lee, Jaeyoung Lee, <b>Eunhan Ka</b>, Chungwon Lee
@@ -236,6 +224,10 @@ con_publications:
         
 
 awards:
+    - role: Google Cloud Research Credits (Cloud Computing Grant)
+      time: Aug. 2025
+      company: <i>Google Cloud</i>
+      details: |
     - role: GLITE Endowment fund
       time: Apr. 2025
       company: <i>Great Lakes District of Institute of Transportation Engineers (GLITE)</i>
