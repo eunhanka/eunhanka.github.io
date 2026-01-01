@@ -32,11 +32,18 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      I am a Ph.D. candidate in the <a href="https://engineering.purdue.edu/CE" target="_blank"> <b>Lyles School of Civil and Construction Engineering</b></a> at Purdue University, where I have been conducting research in the <a href="https://umnilab.github.io/" target="_blank"> <b>UMNILAB</b></a> under the guidance of Dr. Satish V. Ukkusuri since August 2020. My research focuses on developing <b> a pioneering, scalable framework for enhancing the resilience of network traffic dynamics in Connected and Autonomous Vehicles (CAVs) against cyber threats</b>.
-      <br><br>Now, my research focuses on the following areas:
-          <br>- <b>Network Traffic Modeling</b>: Developing innovative models to capture traffic dynamics in large-scale urban networks (PIML-GBM), quantify uncertainties in road traffic dynamics, developing deep learning frameworks for dynamic traffic assignment, and identifying relationships between traffic dynamics and features. <br><i>Applications: Traffic estimation, Perimeter control, Transportation Network Design</i>
-          <br>- <b>Emerging Technologies for Intelligent Transportation Systems</b>: Estimating critical traffic states in CAV environments, analyzing network failures and recovery in CAV systems under cyber threats, and developing mitigation strategies for cyber threats under CAV systems. <br><i>Applications: Cybersecurity, Digital Twin, Autonomous vehicle routing</i>
-      <br><br>By bridging theoretical models with practical applications, <b>my research contributes to the development of more efficient transportation systems and represents a significant advancement in ensuring the resilience of CAV network traffic dynamics against the growing threat of cyberattacks in an increasingly connected world </b>.
+      <p>
+    I am a <b>Postdoctoral Researcher</b> (starting Jan. 2026) in the <a href="https://engineering.purdue.edu/CE" target="_blank"><b>Lyles School of Civil and Construction Engineering</b></a> at Purdue University, working with Dr. Satish V. Ukkusuri in the <a href="https://umnilab.github.io/" target="_blank"><b>UMNILAB</b></a>. I received my Ph.D. from Purdue University in December 2025, with a dissertation titled <i>"Physics-Informed Neural Networks for Secure Connected and Autonomous Traffic Modeling."</i>
+</p>
+<p>
+    My research lies at the intersection of <b>Physics-Informed Machine Learning (PIML), transportation cybersecurity, and network resilience</b>. I focus on developing scalable frameworks that integrate traffic flow physics with data-driven models to enhance the security and reliability of Connected and Autonomous Vehicle (CAV) networks.
+</p>
+<p>
+    Currently, my research interests center on:
+    <br>• <b>Physics-Informed Deep Learning for Traffic State Estimation</b>: Creating robust models (e.g., PIML-GBM) to capture traffic dynamics in large-scale urban networks with limited data.
+    <br>• <b>Transportation Cybersecurity & Resilience</b>: Analyzing the impact of cyber threats—such as route guidance attacks—on network performance and developing mitigation strategies.
+    <br>• <b>Human-Centric Traffic Modeling</b>: Investigating driver behavioral sensitivity and user responses to cyber-physical disruptions to ensure realistic and resilient traffic management.
+</p>
 
 education:
     - degree: <b>Purdue University</b>
