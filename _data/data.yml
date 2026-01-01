@@ -111,10 +111,10 @@ research_experiences:
       time: Aug. 2020 - Dec. 2025
       company: <i>Purdue University</i>
       details: |
-        <p> - Develop a pioneering framework to bolster road network resilience against cyber-attacks in extensive road networks and mitigate cyber attack’s impact by using defense strategies. (Sponsor: USDOT - NATIONAL CENTER FOR TRANSPORTATION CYBERSECURITY AND RESILIENCY [TraCR]) </p>
-        <p> - Introduce a groundbreaking framework for modeling traffic dynamics using physics-informed deep learning, enabling predictions of traffic impacts due to connected and autonomous vehicles in cyberphysical systems within large-scale urban areas. (Sponsor: USDOT - NATIONAL CENTER FOR TRANSPORTATION CYBERSECURITY AND RESILIENCY [TraCR]) </p>
-        <p> - Predict origin-destination matrices based on mobile location data (Sponsor: INDOT)</p>
-        <p> - Analyze the traffic impact of movable barrier (Alex Fraser Bridge) in Vancouver by leveraging the mobile location data (Sponsor: Lindsay Corporation)</p>
+        <p> - Develop a pioneering framework to bolster road network resilience against cyber-attacks in extensive road networks and mitigate the impact of cyber attacks by using defense strategies. </p>
+        <p> - Introduce a groundbreaking framework for modeling traffic dynamics using physics-informed deep learning, enabling predictions of traffic impacts due to connected and autonomous vehicles in cyberphysical systems within large-scale urban areas. </p>
+        <p> - Predict origin-destination matrices based on mobile location data</p>
+        <p> - Analyze the traffic impact of the movable barrier (Alex Fraser Bridge) in Vancouver by leveraging the mobile location data</p>
 
     - role: <b>Researcher</b>
       time: Mar. 2018 - Aug. 2020
@@ -123,7 +123,7 @@ research_experiences:
         <p> - Led a study on designing a cluster-based route of multi-capacity vehicles of demand-responsive transport services for the disabled and analyzing the quantitative effects of shared parking services & last-mile mobility services</p>
         <p> - Developed optimal operation strategies of Mobility-as-a-Service (MaaS) for the mobility impaired (such as disabled or elderly people)</p>
         <p> - Modelled lane change behaviors on freeways and gap acceptance behaviors at roundabouts in real driving situations and virtual reality</p>
-        <p> - Collaborated and coordinated with faculty members, businessmen, researchers, and fellow graduate students at University of Seoul, Radius Corporation, Korea Land & Housing Institute</p>
+        <p> - Collaborated and coordinated with faculty members, businessmen, researchers, and fellow graduate students at the University of Seoul, Radius Corporation, Korea Land & Housing Institute</p>
 
     - role: <b>Research Assistant</b>
       time: Mar. 2016 - Feb. 2018
