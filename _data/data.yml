@@ -100,10 +100,11 @@ research_experiences:
       time: Jan. 2026 - Present
       company: <i>Purdue University</i>
       details: |
-        <p>- Lead research on <b>network resilience under compound climate and cyber disruptions</b>, developing modeling and decision-support methods that quantify disruption propagation, reliability loss, and recovery dynamics at the city/network scale.</p>
-        <p>- Develop a <b>Resilient Mobility Digital Twin</b> that couples physics-based traffic flow theory with physics-informed machine learning and data assimilation to infer network states, quantify uncertainty, and forecast performance under extreme weather, infrastructure degradation, and adversarial information.</p>
-        <p>- Design <b>behavior-aware threat and defense models</b> for connected/autonomous mobility (e.g., route guidance manipulation), integrating bounded rationality and robust detection/mitigation to protect network-level performance rather than only link-level metrics.</p>
-        <p>- Build <b>scalable algorithms and reproducible software pipelines</b> (multi-resolution modeling, graph-based learning for spatiotemporal inference, and large-scale evaluation) to enable publication-quality validation and proposal-ready deliverables aligned with NSF/DOE/USDOT resilience priorities.</p>
+        <p>- Develop modeling and decision-support methods for <b>network resilience under compound climate and cyber disruptions</b>, quantifying disruption propagation, reliability loss, and recovery at the city scale.</p>
+        <p>- Build a <b>Resilient Mobility Digital Twin</b> that couples traffic-flow theory with physics-informed learning and data assimilation to estimate network states, quantify uncertainty, and forecast performance under extreme events.</p>
+        <p>- Design <b>behavior-aware threat and defense models</b> for connected/autonomous mobility (e.g., route guidance manipulation), enabling robust detection and mitigation focused on network-level outcomes.</p>
+        <p>- Develop <b>scalable algorithms and reproducible pipelines</b> (multi-resolution modeling and graph-based spatiotemporal inference) to support publication-quality evaluation and proposal-ready deliverables.</p>
+
 
         
     - role: <b>Research Assistant</b>
