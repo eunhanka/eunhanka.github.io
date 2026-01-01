@@ -32,7 +32,7 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      I am an incoming Postdoctoral Researcher (starting January 2026) and recently completed my Ph.D. (December 2025) in the
+      I am a Postdoctoral Researcher in the
         <a href="https://engineering.purdue.edu/CE" target="_blank"><b>Lyles School of Civil and Construction Engineering</b></a>
         at Purdue University. I have conducted my doctoral research in
         <a href="https://umnilab.github.io/" target="_blank"><b>UMNILAB</b></a>
@@ -41,21 +41,29 @@ career-profile:
         connected and autonomous mobility, with a particular focus on transportation cybersecurity and behavior-aware resilience
         under route guidance attacks.
         <br><br>
+        My research develops physics-informed and data-driven methods to model, estimate, and secure network traffic dynamics in
+        connected and autonomous mobility. My dissertation, <i>Physics-Informed Neural Networks for Secure Connected and Autonomous Traffic Modeling</i>,
+        centers on network resilience and reliability, user behavior, and transportation cybersecurity.
+        <br><br>
         
         My current research focuses on:
         <br>
-        - <b>Physics-informed learning for network traffic dynamics and state estimation</b>:
-        physics-informed machine learning and PINN-based frameworks for large-scale urban networks, including scalable traffic-state
-        estimation with macroscopic models (e.g., generalized bathtub modeling) and adaptive learning strategies for complex spatiotemporal dynamics.
+        - <b>Physics-informed learning for network-scale traffic dynamics and state estimation</b>:
+        scalable modeling and inference for large-scale urban networks using traffic-flow theory and physics-informed learning.
         <br>
-        - <b>Transportation cybersecurity and resilience in connected/autonomous mobility</b>:
-        user-centered and behavior-aware modeling of cyber threats (e.g., route guidance attacks), quantifying network vulnerability and performance degradation, and developing mitigation strategies that improve robustness of mobility operations.
+        - <b>Network resilience under climate and cyber disruptions</b>:
+        quantifying how climate-driven disruptions and cyber disruptions propagate through transportation networks, and developing
+        reliability- and recovery-oriented modeling and decision support for resilient operations.
+        <br>
+        - <b>Behavior-aware transportation cybersecurity</b>:
+        modeling and mitigating route guidance attacks and related adversarial behaviors by integrating behavioral models and game-theoretic insights.
         <br>
         - <b>Graph and network learning for large-scale mobility data</b>:
-        graph-based learning and spatiotemporal analytics to improve data completeness and reliability for network-level traffic monitoring and downstream control/management tasks.
+        improving data completeness and reliability for network monitoring and downstream control/management tasks.
         <br><br>
         
-        Overall, my goal is to enable trustworthy, network-scale traffic modeling and decision support for modern transportation systems by integrating traffic flow theory, human behavior, and machine learning into practical frameworks that can operate under data uncertainty and adversarial conditions.
+        Overall, my goal is to enable trustworthy, resilient, and scalable mobility decision support by integrating traffic theory,
+        machine learning, and behavioral modeling to operate under uncertainty and compound disruptions.
 
 
 education:
