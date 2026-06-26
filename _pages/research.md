@@ -82,7 +82,7 @@ optimization, game theory, and behavioral modeling.
      so it wins over main.scss without !important. */
   .eh-areas .eh-area-figure {
     margin: 0 auto 1.4rem;
-    max-width: 820px;
+    max-width: 1000px;
     background: #fff;
     border: 1px solid var(--global-divider-color);
     border-radius: 10px;
