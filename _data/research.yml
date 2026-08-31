@@ -33,11 +33,12 @@ pillars:
       traffic dynamics at the network scale. This work includes physics-informed
       formulations of macroscopic models such as the generalized bathtub model
       for large-scale urban networks, graph learning guided by the network
-      macroscopic fundamental diagram for traffic state imputation, and adaptive
-      domain decomposition for estimating traffic states from sparse sensor data,
-      aiming at scalable inference that stays reliable where data are limited.
+      macroscopic fundamental diagram for traffic state imputation, and
+      observation-aligned two-stage domain decomposition for estimating traffic
+      states from sparse fixed sensors, aiming at scalable inference that stays
+      reliable where data are limited.
     papers:
-      - ka_adaptive_underreview
+      - ka2026obsaligned
       - ka2024piml
       - xue2024nmfd
 

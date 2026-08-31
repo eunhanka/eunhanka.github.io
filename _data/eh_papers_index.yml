@@ -4,7 +4,7 @@
 # lives in _bibliography/papers.bib.
 
 ka2024piml:
-  title: "A Physics-Informed Machine Learning for Estimating Traffic State with a Generalized Bathtub Model in Large-scale Urban Networks"
+  title: "A Physics-Informed Machine Learning for Generalized Bathtub Model in Large-Scale Urban Networks"
   venue: "Transportation Research Part C"
   year: "2024"
   url: "https://doi.org/10.1016/j.trc.2024.104661"
@@ -15,10 +15,10 @@ xue2024nmfd:
   year: "2024"
   url: "https://doi.org/10.1016/j.trb.2024.102996"
 
-ka_adaptive_underreview:
-  title: "Adaptive Domain Decomposition Physics-Informed Neural Networks for Traffic State Estimation with Sparse Sensor Data"
+ka2026obsaligned:
+  title: "Observation-Aligned Two-Stage Domain Decomposition for Physics-Informed Traffic State Estimation with Sparse Fixed Sensors"
   venue: "Transportation Research Part C"
-  year: "Under review"
+  year: "Accepted"
   url: "https://doi.org/10.48550/arXiv.2605.08028"
 
 ka2025sampling:
@@ -55,7 +55,7 @@ ka2026mirage:
   title: "MIRAGE: Detecting Fake Emergency Electronic Brake Light Attacks in V2X Networks via Event-Gated Behavioral Analysis"
   venue: "USENIX VehicleSec"
   year: "2026"
-  url: "/publications/"
+  url: "https://www.usenix.org/conference/vehiclesec26/presentation/ka"
 
 ukkusuri2025cyberreview:
   title: "Cybersecurity for Next-Generation Road Transportation: A Review"

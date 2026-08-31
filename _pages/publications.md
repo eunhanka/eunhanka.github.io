@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Peer-reviewed journal articles, conference proceedings, book chapters, and technical reports. Manuscripts under review are listed first.
+description: Peer-reviewed journal articles, conference proceedings, book chapters, technical reports, and patents. Manuscripts under review are listed first.
 nav: true
 nav_order: 3
 ---
@@ -25,5 +25,8 @@ nav_order: 3
 
 <h2 class="bibliography-section-heading">Books and Technical Reports</h2>
 {% bibliography --query @incollection,@techreport %}
+
+<h2 class="bibliography-section-heading">Patents</h2>
+{% bibliography --query @misc %}
 
 </div>
