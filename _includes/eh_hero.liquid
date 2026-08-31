@@ -177,8 +177,48 @@
     border-bottom: 0.5px solid var(--global-divider-color);
     line-height: 1.5;
   }
-  #eh-hero .eh-news-item:last-child {
+  #eh-hero .eh-news-item:last-child,
+  #eh-hero .eh-news-item.is-page-last {
     border-bottom: 0;
+  }
+  #eh-hero .eh-news-item[hidden] {
+    display: none;
+  }
+  #eh-hero .eh-news-pager {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.35rem;
+    margin: 0.9rem 0 0;
+  }
+  #eh-hero .eh-news-pager button {
+    min-width: 1.9rem;
+    padding: 0.2rem 0.5rem;
+    font-size: 0.82rem;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--global-text-color-light);
+    background: transparent;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 4px;
+    cursor: pointer;
+    transition:
+      color 0.15s ease,
+      border-color 0.15s ease,
+      background-color 0.15s ease;
+  }
+  #eh-hero .eh-news-pager button:hover:not(:disabled) {
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+  }
+  #eh-hero .eh-news-pager button[aria-current="true"] {
+    color: var(--global-bg-color);
+    background: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+  }
+  #eh-hero .eh-news-pager button:disabled {
+    opacity: 0.4;
+    cursor: default;
   }
   #eh-hero .eh-news-date {
     flex: 0 0 5.5rem;
@@ -425,8 +465,8 @@
   {%- if eh_news != blank -%}
     <section class="eh-news" aria-label="Recent news">
       <h2 class="eh-section-title">News</h2>
-      <ul class="eh-news-list">
-        {%- for item in eh_news limit: 7 -%}
+      <ul class="eh-news-list" id="eh-news-list" data-per-page="6">
+        {%- for item in eh_news -%}
           <li class="eh-news-item">
             <span class="eh-news-date">{{ item.date | date: '%b %Y' }}</span>
             <span class="eh-news-text">
@@ -439,6 +479,7 @@
           </li>
         {%- endfor -%}
       </ul>
+      <nav class="eh-news-pager" id="eh-news-pager" aria-label="News pages" hidden></nav>
     </section>
   {%- endif -%}
 </div>
@@ -499,5 +540,74 @@
       });
     });
     if (buttons.length) render(buttons[0].dataset.k);
+  })();
+</script>
+
+<script>
+  (function () {
+    var list = document.getElementById('eh-news-list');
+    var pager = document.getElementById('eh-news-pager');
+    if (!list || !pager) return;
+
+    var items = Array.prototype.slice.call(list.querySelectorAll('.eh-news-item'));
+    var perPage = parseInt(list.getAttribute('data-per-page'), 10) || 6;
+    var pageCount = Math.ceil(items.length / perPage);
+    if (pageCount <= 1) return;
+
+    function makeButton(label, aria) {
+      var b = document.createElement('button');
+      b.type = 'button';
+      b.textContent = label;
+      b.setAttribute('aria-label', aria);
+      return b;
+    }
+
+    var current = 1;
+    var prev = makeButton('\u2039', 'Previous news page');
+    var next = makeButton('\u203a', 'Next news page');
+
+    pager.appendChild(prev);
+    for (var p = 1; p <= pageCount; p++) {
+      var b = makeButton(String(p), 'News page ' + p);
+      b.setAttribute('data-page', String(p));
+      pager.appendChild(b);
+    }
+    pager.appendChild(next);
+
+    function show(page) {
+      current = page;
+      var lastVisible = null;
+      items.forEach(function (li, i) {
+        var on = i >= (page - 1) * perPage && i < page * perPage;
+        li.hidden = !on;
+        li.classList.remove('is-page-last');
+        if (on) lastVisible = li;
+      });
+      if (lastVisible) lastVisible.classList.add('is-page-last');
+      Array.prototype.forEach.call(pager.querySelectorAll('button[data-page]'), function (btn) {
+        var isCurrent = parseInt(btn.getAttribute('data-page'), 10) === page;
+        btn.setAttribute('aria-current', isCurrent ? 'true' : 'false');
+      });
+      prev.disabled = page === 1;
+      next.disabled = page === pageCount;
+    }
+
+    pager.addEventListener('click', function (e) {
+      var btn = e.target.closest('button');
+      if (!btn) return;
+      if (btn === prev) {
+        if (current > 1) show(current - 1);
+        return;
+      }
+      if (btn === next) {
+        if (current < pageCount) show(current + 1);
+        return;
+      }
+      var target = parseInt(btn.getAttribute('data-page'), 10);
+      if (target) show(target);
+    });
+
+    pager.hidden = false;
+    show(1);
   })();
 </script>
