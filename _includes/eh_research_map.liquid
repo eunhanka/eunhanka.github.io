@@ -36,29 +36,29 @@
 
     <!-- Pillars -->
     <div class="eh-rmap-row eh-rmap-pillars">
-      <button type="button" class="eh-node eh-node-pillar" data-k="pinn" aria-label="Physics-Informed AI">
-        <span class="eh-node-title">Physics-Informed AI</span>
+      <button type="button" class="eh-node eh-node-pillar" data-k="pinn" aria-label="Network Monitoring and State Estimation">
+        <span class="eh-node-title">Network Monitoring &amp; State Estimation</span>
       </button>
-      <button type="button" class="eh-node eh-node-pillar" data-k="resilience" aria-label="Network Resilience">
-        <span class="eh-node-title">Network Resilience</span>
+      <button type="button" class="eh-node eh-node-pillar" data-k="resilience" aria-label="Network Operations and Resilience">
+        <span class="eh-node-title">Network Operations &amp; Resilience</span>
       </button>
-      <button type="button" class="eh-node eh-node-pillar" data-k="cyber" aria-label="Transportation Cybersecurity">
-        <span class="eh-node-title">Transportation Cybersecurity</span>
+      <button type="button" class="eh-node eh-node-pillar" data-k="cyber" aria-label="Traveler Behavior and Information Reliability">
+        <span class="eh-node-title">Traveler Behavior &amp; Information Reliability</span>
       </button>
-      <button type="button" class="eh-node eh-node-pillar" data-k="optim" aria-label="Optimization and Human Behavior">
-        <span class="eh-node-title">Optimization &amp; Human Behavior</span>
+      <button type="button" class="eh-node eh-node-pillar" data-k="optim" aria-label="Connected and Automated Mobility and Cybersecurity">
+        <span class="eh-node-title">Connected &amp; Automated Mobility and Cybersecurity</span>
       </button>
     </div>
 
     <!-- Methods -->
     <div class="eh-rmap-row eh-rmap-methods">
-      <div class="eh-node eh-node-method" data-m="pil" aria-label="Methodological core: Physics-informed learning">
+      <div class="eh-node eh-node-method" data-m="pil" aria-label="Methodological core: Physics-informed and network modeling">
         <span class="eh-node-eyebrow">Method</span>
-        <span class="eh-node-title">Physics-informed learning</span>
+        <span class="eh-node-title">Physics-informed and network modeling</span>
       </div>
-      <div class="eh-node eh-node-method" data-m="gto" aria-label="Methodological core: Game theory and optimization">
+      <div class="eh-node eh-node-method" data-m="gto" aria-label="Methodological core: Behavioral analysis and optimization">
         <span class="eh-node-eyebrow">Method</span>
-        <span class="eh-node-title">Game theory and optimization</span>
+        <span class="eh-node-title">Behavioral analysis and optimization</span>
       </div>
     </div>
   </div>
@@ -240,10 +240,10 @@
     var defaultText = desc.getAttribute('data-default');
 
     var DESCRIPTIONS = {
-      pinn: 'Physics-constrained learning for large-scale traffic state estimation',
-      resilience: 'How networks degrade and recover under disruption and adversarial manipulation',
-      cyber: 'Modeling and detecting attacks on connected and autonomous mobility',
-      optim: 'Routing games and behavioral models for network decisions',
+      pinn: 'Physics-constrained learning that reconstructs network states from sparse observations',
+      resilience: 'How disruptions propagate through networks, and how operations recover from them',
+      cyber: 'How travelers respond when the information guiding them is unreliable',
+      optim: 'Securing connected and automated mobility, from V2X messages to navigation services',
     };
     // which method each pillar connects to
     var PILLAR_METHOD = { pinn: 'pil', resilience: 'pil', cyber: 'gto', optim: 'gto' };

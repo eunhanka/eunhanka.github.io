@@ -92,3 +92,9 @@ lee2018rain:
   venue: "J. Adv. Transp."
   year: "2018"
   url: "https://doi.org/10.1155/2018/2726732"
+
+ka_fakerush:
+  title: "Fake Rush Hour: Exploring Bounded Rational Route Guidance Attacks on Urban Navigation Systems"
+  venue: "ACM Journal on Autonomous Transportation Systems"
+  year: "Under revision"
+  url: "/publications/"

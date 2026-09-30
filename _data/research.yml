@@ -20,73 +20,74 @@ education:
     date: "Feb 2016"
 
 vision: >
-  My research program builds toward resilient and trustworthy mobility systems
-  that remain reliable under disruption, adversarial manipulation, and uncertainty.
+  My research combines artificial intelligence, optimization, and network
+  modeling to estimate transportation network states from incomplete
+  observations, and to understand how the reliability of information shapes
+  traveler behavior and network dynamics.
 
 pillars:
-  - id: pinn
-    name: "Physics-Informed AI"
+  - id: estimation
+    name: "Network Monitoring & State Estimation"
     icon: "fa-solid fa-brain"
-    blurb: "Traffic-flow theory fused with deep learning for network-scale modeling and state estimation."
+    blurb: "Traffic-flow theory fused with learning to reconstruct network states from sparse observations."
     description: >
-      I embed traffic-flow theory into machine learning to model and estimate
-      traffic dynamics at the network scale. This work includes physics-informed
-      formulations of macroscopic models such as the generalized bathtub model
-      for large-scale urban networks, graph learning guided by the network
-      macroscopic fundamental diagram for traffic state imputation, and
-      observation-aligned two-stage domain decomposition for estimating traffic
-      states from sparse fixed sensors, aiming at scalable inference that stays
-      reliable where data are limited.
+      I embed traffic-flow theory into machine learning so that network states
+      can be reconstructed where sensing is incomplete. This work includes
+      observation-aligned two-stage domain decomposition for speed-field
+      reconstruction from sparse fixed sensors, physics-informed formulations of
+      macroscopic models such as the generalized bathtub model, and graph
+      learning guided by the network macroscopic fundamental diagram for traffic
+      state imputation. The aim is inference that scales to large networks and
+      stays reliable where data are limited.
     papers:
       - ka2026obsaligned
       - ka2024piml
       - xue2024nmfd
 
-  - id: resilience
-    name: "Network Resilience"
+  - id: operations
+    name: "Network Operations & Resilience"
     icon: "fa-solid fa-circle-nodes"
-    blurb: "How disruptions and attacks affect network performance, reliability, and recovery."
+    blurb: "How disruptions propagate through networks, and how operations recover from them."
     description: >
-      I study how transportation networks absorb and recover from disruption. My
-      work quantifies how climate-driven and cyber disruptions propagate through
-      networks, how reliability degrades under such events, and how operations
-      can be designed for faster and more dependable recovery, with a focus on
-      reliability- and recovery-oriented modeling and decision support at the
-      city scale.
+      I study how transportation networks absorb disruption and how operations
+      can be designed for faster recovery. This work quantifies how route
+      guidance attacks and other disruptions propagate through a network, extends
+      analytical network-flow models to traffic under manipulated guidance, and
+      measures the network-level effects of operational changes such as movable
+      lane management, connecting link-level intervention to network outcomes.
     papers:
       - ka2026resilience
-      - ka_d2d_underreview
+      - ka2025analytical
+      - ka2022lanemanagement
 
-  - id: cybersecurity
-    name: "Transportation Cybersecurity"
-    icon: "fa-solid fa-shield-halved"
-    blurb: "Modeling and detecting route guidance and V2X attacks on connected mobility."
+  - id: behavior
+    name: "Traveler Behavior & Information Reliability"
+    icon: "fa-solid fa-route"
+    blurb: "How travelers respond when the information guiding them is unreliable."
     description: >
-      I model and mitigate cyber threats to connected and autonomous mobility.
-      This spans route guidance attacks that manipulate driver routing and their
-      behavioral and network-level effects, detection of V2X attacks such as fake
-      emergency messages, and a broader review of cybersecurity needs for
+      I model how travelers respond to guidance they cannot fully trust. This
+      work includes user-centered study of behavioral sensitivity to route
+      guidance attacks, day-to-day network models in which trust in guidance is
+      endogenous and reliance adapts over time, and empirical driver-behavior
+      studies using surrogate safety measures, linking individual response to
+      aggregate network dynamics.
+    papers:
+      - ka2025rga
+      - ka_d2d_underreview
+      - ka2020ssm
+
+  - id: mobility
+    name: "Connected & Automated Mobility and Cybersecurity"
+    icon: "fa-solid fa-shield-halved"
+    blurb: "Securing connected and automated mobility, from V2X messages to navigation services."
+    description: >
+      I model and mitigate cyber threats to connected and automated mobility.
+      This work includes detection of V2X attacks such as fake emergency
+      electronic brake light messages, bounded-rational route guidance attacks on
+      urban navigation services, and a review of cybersecurity needs for
       next-generation road transportation, with defenses judged by their
-      network-level outcomes.
+      network-level outcomes rather than by detection accuracy alone.
     papers:
       - ka2026mirage
-      - ka2025rga
       - ukkusuri2025cyberreview
-
-  - id: optimization
-    name: "Optimization & Human Behavior"
-    icon: "fa-solid fa-route"
-    blurb: "Traffic assignment, routing games, and driver behavior in mobility systems."
-    description: >
-      I combine optimization, game theory, and behavioral modeling to study how
-      travelers route and respond in mobility systems. This includes mean field
-      routing games for connected and autonomous vehicles, analytical
-      network-flow frameworks for traffic under route guidance attacks, and
-      empirical studies of driver behavior such as gap acceptance and surrogate
-      safety measures, connecting individual behavior to network-level
-      performance.
-    papers:
-      - ka2023routinggames
-      - ka2022lanemanagement
-      - ka2020ssm
-      - lee2018rain
+      - ka_fakerush
