@@ -14,27 +14,31 @@ practice and mentoring that prepares students for independent research.
 ## Teaching Experience
 
 Across two institutions I have contributed to graduate and undergraduate
-teaching as a lecturer and teaching assistant, and in two cases beyond the
-classroom by building the course itself.
+teaching as an instructor, lecturer, and teaching assistant, and in two cases
+beyond the classroom by building the course itself.
 
 <div class="eh-teaching">
   <div class="eh-teach-group">
     <h3 class="eh-teach-label">Purdue University &mdash; Lyles School of Civil and Construction Engineering</h3>
     <ul class="eh-teach-list">
       <li class="eh-teach-item">
-        <span class="eh-teach-course">CE 661: Algorithms in Transportation <span class="eh-teach-level">(Graduate)</span></span>
+        <span class="eh-teach-course">CCE 56900: Smart Logistics <span class="eh-teach-level">(Graduate)</span></span>
+        <span class="eh-teach-meta">Instructor &middot; Fall 2026 &middot; <em>instructor of record</em></span>
+      </li>
+      <li class="eh-teach-item">
+        <span class="eh-teach-course">CCE 66100: Algorithms in Transportation <span class="eh-teach-level">(Graduate)</span></span>
         <span class="eh-teach-meta">Teaching Assistant &middot; Fall 2024 &middot; <em>co-developed the curriculum for this new course</em></span>
       </li>
       <li class="eh-teach-item">
-        <span class="eh-teach-course">CE 597: Network Models for Connected and Autonomous Vehicles <span class="eh-teach-level">(Graduate)</span></span>
+        <span class="eh-teach-course">CCE 56601: Network Models for Connected and Autonomous Vehicles <span class="eh-teach-level">(Graduate)</span></span>
         <span class="eh-teach-meta">Teaching Assistant &middot; Fall 2021&ndash;2023</span>
       </li>
       <li class="eh-teach-item">
-        <span class="eh-teach-course">CE 597: Smart Logistics <span class="eh-teach-level">(Graduate)</span></span>
+        <span class="eh-teach-course">CCE 56900: Smart Logistics <span class="eh-teach-level">(Graduate)</span></span>
         <span class="eh-teach-meta">Teaching Assistant &middot; Fall 2021 and Fall 2024</span>
       </li>
       <li class="eh-teach-item">
-        <span class="eh-teach-course">CE 597: Data Science for Smart Cities <span class="eh-teach-level">(Graduate)</span></span>
+        <span class="eh-teach-course">CCE 56400: Data Science for Smart Cities <span class="eh-teach-level">(Graduate)</span></span>
         <span class="eh-teach-meta">Teaching Assistant &middot; Spring 2021 and Fall 2023 &middot; <em>developed online course materials delivered on edX</em></span>
       </li>
     </ul>
@@ -119,13 +123,17 @@ classroom by building the course itself.
 
 ## Mentoring
 
-I see mentoring as teaching extended into research. From 2024 to 2025 I guided
-two Purdue undergraduates, Akshit Kumar Bedi and Abrar Ali, from foundational
-concepts toward independent investigation, helping them frame a research
-question, develop the necessary methods, and present their findings. Their work
-culminated in a poster at the 2025 CERIAS Cybersecurity Symposium, and watching
-them grow into confident, self-directed researchers is among the most rewarding
-parts of my teaching.
+I see mentoring as teaching extended into research. Since June 2026 I have
+mentored two Purdue Ph.D. students through weekly research and manuscript
+feedback; each is first author on a transportation systems paper submitted to
+the 2027 Transportation Research Board Annual Meeting.
+
+Earlier, from 2024 to 2025, I guided two Purdue undergraduates, Akshit Kumar
+Bedi and Abrar Ali, from foundational concepts toward independent investigation,
+helping them frame a research question, develop the necessary methods, and
+present their findings. Their work culminated in a poster at the 2025 CERIAS
+Cybersecurity Symposium, and watching them grow into confident, self-directed
+researchers is among the most rewarding parts of my teaching.
 
 ## Courses I Can Teach
 
