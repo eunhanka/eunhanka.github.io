@@ -18,8 +18,8 @@ xue2024nmfd:
 ka2026obsaligned:
   title: "Observation-Aligned Two-Stage Domain Decomposition for Physics-Informed Traffic State Estimation with Sparse Fixed Sensors"
   venue: "Transportation Research Part C"
-  year: "Accepted"
-  url: "https://doi.org/10.48550/arXiv.2605.08028"
+  year: "2027"
+  url: "https://doi.org/10.1016/j.trc.2026.105995"
 
 ka2025sampling:
   title: "Comparative Analysis of Sampling Methods in Physics-Informed Neural Networks for Traffic State Estimation in Large-Scale Road Networks"
