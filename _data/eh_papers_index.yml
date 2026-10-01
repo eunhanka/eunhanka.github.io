@@ -39,7 +39,7 @@ ka_d2d_underreview:
   year: "Under review"
   url: "https://doi.org/10.48550/arXiv.2605.14204"
 
-ka_misdirected_inpress:
+ka2026misdirected:
   title: "Misdirected Guidance and Urban Traffic Network Resilience (Book Chapter)"
   venue: "World Scientific"
   year: "In press"
