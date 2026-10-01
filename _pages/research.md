@@ -173,8 +173,12 @@ optimization, game theory, and behavioral modeling.
     <h3 class="eh-fund-label">Research Support</h3>
     <ul class="eh-fund-list">
       <li class="eh-fund-item">
+        <span class="eh-fund-title">Postdoctoral Supplemental Travel Award</span>
+        <span class="eh-fund-meta">Office of the Vice Provost for Graduate Students and Postdoctoral Scholars, Purdue University &middot; $500 &middot; 2026</span>
+      </li>
+      <li class="eh-fund-item">
         <span class="eh-fund-title">Google Cloud Research Credits</span>
-        <span class="eh-fund-meta">Google Cloud (computing grant) &middot; $1,000 &middot; 2025</span>
+        <span class="eh-fund-meta">Google Cloud (computing grant) &middot; $1,000 each &middot; 2025 and 2026</span>
       </li>
     </ul>
   </div>
