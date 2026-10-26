@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Peer-reviewed journal articles, conference proceedings, book chapters, technical reports, and patents. Manuscripts under review are listed first.
+description: Peer-reviewed journal articles, conference proceedings, book chapters, technical reports, and patents. Manuscripts under review or revision are listed first.
 nav: true
 nav_order: 3
 ---
@@ -14,7 +14,7 @@ nav_order: 3
 
 <div class="publications">
 
-<h2 class="bibliography-section-heading">Under Review</h2>
+<h2 class="bibliography-section-heading">Under Review and Revision</h2>
 {% bibliography --query @article[status=underreview] %}
 
 <h2 class="bibliography-section-heading">Journal Articles</h2>

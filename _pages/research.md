@@ -141,34 +141,22 @@ optimization, game theory, and behavioral modeling.
 
 <div class="eh-funding">
   <div class="eh-fund-group">
-    <h3 class="eh-fund-label">Awarded / Participated</h3>
-    <p class="eh-fund-role">Led full proposal development as Graduate Research Assistant (PI: Dr. Satish V. Ukkusuri), from conceptualization and writing through submission, and contributed to project execution.</p>
+    <p class="eh-fund-role">As a Graduate Research Assistant, I led proposal development and served as the primary technical lead throughout project execution, coordinating analytical work, project milestones, and deliverable preparation under faculty advisor Satish V. Ukkusuri.</p>
     <ul class="eh-fund-list">
       <li class="eh-fund-item">
         <span class="eh-fund-title">Attracting and Retaining the Transportation Workforce and At-Risk Targeted Areas</span>
-        <span class="eh-fund-meta">INDOT &middot; $225,000 &middot; 2024&ndash;2026</span>
+        <span class="eh-fund-meta">INDOT &middot; Total project award $225,000 &middot; 2024&ndash;2026</span>
       </li>
       <li class="eh-fund-item">
         <span class="eh-fund-title">A Multi-Resolution Simulation Platform for Transportation System Security Testing and Evaluation</span>
-        <span class="eh-fund-meta">USDOT University Transportation Center (TraCR) &middot; $340,000 &middot; 2024</span>
+        <span class="eh-fund-meta">USDOT University Transportation Center (TraCR) &middot; Total project budget $340,000 including cost share &middot; 2024</span>
       </li>
       <li class="eh-fund-item">
         <span class="eh-fund-title">Training Gap Analysis for INDOT Workforce</span>
-        <span class="eh-fund-meta">INDOT &middot; $213,500 &middot; 2023&ndash;2025</span>
+        <span class="eh-fund-meta">INDOT &middot; Total project award $213,500 &middot; 2023&ndash;2025</span>
       </li>
     </ul>
   </div>
-
-  <div class="eh-fund-group">
-    <h3 class="eh-fund-label">Submitted / In Preparation</h3>
-    <ul class="eh-fund-list">
-      <li class="eh-fund-item">
-        <span class="eh-fund-title">Resilience-Based Prioritization Framework for Cooperative UAV&ndash;UGV Road Maintenance</span>
-        <span class="eh-fund-meta">INDOT &middot; $200,000 &middot; Co-PI &middot; <em>proposal, under review</em></span>
-      </li>
-    </ul>
-  </div>
-
 </div>
 
 <style>
