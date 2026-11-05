@@ -6,21 +6,26 @@ nav: true
 nav_order: 5
 ---
 
-Beyond publications, my professional record includes competitive awards and
-research support, invited talks, peer review for journals and conferences, and
-membership in the societies that shape transportation and computing research.
+Beyond publications, my professional record includes awards, fellowships, and
+research support; invited talks and selected presentations; peer review for
+journals and conferences; and membership in the societies that shape
+transportation and computing research.
 
 ## Awards, Fellowships, and Research Support
 
 <div class="eh-svc">
   <ul class="eh-svc-list">
     <li class="eh-svc-item">
+      <span class="eh-svc-title">MIT&ndash;Anthropic AI for Science Study</span>
+      <span class="eh-svc-meta">MIT Sloan School of Management and Anthropic &middot; Claude Credits Recipient &middot; $20,000 &middot; Nov 2026</span>
+    </li>
+    <li class="eh-svc-item">
       <span class="eh-svc-title">Postdoctoral Supplemental Travel Award</span>
       <span class="eh-svc-meta">Office of the Vice Provost for Graduate Students and Postdoctoral Scholars, Purdue University &middot; $500 &middot; Oct 2026 &middot; <em>18 of 48 applicants across 11 Purdue colleges</em></span>
     </li>
     <li class="eh-svc-item">
       <span class="eh-svc-title">ChatGPT for Academic Researchers Program</span>
-      <span class="eh-svc-meta">OpenAI &middot; Approved Participant &middot; Aug 2026</span>
+      <span class="eh-svc-meta">OpenAI &middot; Approved Participant &middot; $2,400 value &middot; Aug 2026</span>
     </li>
     <li class="eh-svc-item">
       <span class="eh-svc-title">Google Cloud Research Credits Program</span>
@@ -65,6 +70,10 @@ membership in the societies that shape transportation and computing research.
 
 <div class="eh-svc">
   <ul class="eh-svc-list">
+    <li class="eh-svc-item">
+      <span class="eh-svc-title">Physics-Informed Inference and Behavioral Adaptation on Networked Systems under Corrupted Information</span>
+      <span class="eh-svc-meta">2026 INFORMS Annual Meeting, Job Market Showcase, San Francisco, CA &middot; Nov 2026</span>
+    </li>
     <li class="eh-svc-item">
       <span class="eh-svc-title">Physics-Informed AI for Transportation Systems</span>
       <span class="eh-svc-meta">CGN 6425: Applied Data Science in Civil and Environmental Engineering, University of Florida &middot; Apr 2026 &middot; <em>invited guest lecture</em></span>
