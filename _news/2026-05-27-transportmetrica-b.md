@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Paper on Network Resilience Published in Transportmetrica B"
 date: 2026-05-27 09:00:00-0400
 inline: true
 related_posts: false

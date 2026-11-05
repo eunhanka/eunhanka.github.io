@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Job Talk at the 2026 INFORMS Annual Meeting"
 date: 2026-11-01 09:00:00-0500
 inline: true
 related_posts: false
