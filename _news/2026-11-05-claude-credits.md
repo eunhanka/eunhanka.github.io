@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Claude Credits through the MIT\u2013Anthropic AI for Science Study"
+news_category: funding
 date: 2026-11-05 09:00:00-0500
 inline: true
 related_posts: false

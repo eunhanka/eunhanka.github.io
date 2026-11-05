@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Postdoctoral Supplemental Travel Award"
+news_category: award
 date: 2026-10-01 09:00:00-0400
 inline: true
 related_posts: false

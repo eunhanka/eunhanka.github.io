@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MIRAGE Presented at USENIX VehicleSec '26"
+news_category: conference
 date: 2026-08-11 09:00:00-0400
 inline: true
 related_posts: false

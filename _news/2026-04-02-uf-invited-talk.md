@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Invited Talk on Physics-Informed AI at the University of Florida"
+news_category: talk
 date: 2026-04-02 09:00:00-0400
 inline: true
 related_posts: false

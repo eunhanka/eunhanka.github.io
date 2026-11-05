@@ -1,0 +1,13 @@
+# Labels shown in brackets before each news item on the home page News list
+# and /news/. Keys are the ids set by `news_category:` in each _news file.
+# An id that is missing here, or no key at all, shows no label.
+journal: Journal
+conference: Conference
+award: Award
+talk: Talk
+funding: Funding
+career: Career
+# Reserved
+service: Service
+teaching: Teaching
+patent: Patent
