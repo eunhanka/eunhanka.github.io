@@ -1,0 +1,6 @@
+{%- comment -%}
+  Category label for one news item, e.g. [Journal]. Used by eh_hero.liquid and
+  eh_news_table.liquid. Labels live in _data/news_categories.yml.
+{%- endcomment -%}
+{%- assign eh_cat_label = site.data.news_categories[include.item.news_category] -%}
+{%- if include.item.news_category and eh_cat_label -%}<span class="eh-news-cat">[{{ eh_cat_label }}]</span> {% endif -%}

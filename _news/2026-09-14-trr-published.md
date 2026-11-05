@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paper on Workforce Training Priorities Published in TRR"
+news_category: journal
 date: 2026-09-14 09:00:00-0400
 inline: true
 related_posts: false

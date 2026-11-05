@@ -470,6 +470,7 @@
           <li class="eh-news-item">
             <span class="eh-news-date">{{ item.date | date: '%b %Y' }}</span>
             <span class="eh-news-text">
+              {%- include eh_news_category.liquid item=item -%}
               {%- if item.inline -%}
                 {{ item.content | markdownify | remove: '<p>' | remove: '</p>' | strip }}
               {%- else -%}

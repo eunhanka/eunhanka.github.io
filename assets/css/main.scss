@@ -281,3 +281,12 @@ html[data-theme="dark"] {
 .eh-teaching {
   margin-bottom: 1.5rem;
 }
+
+// Category label before each news item ([Journal], [Talk], ...) on the home
+// page News list and /news/. One accent color in both themes.
+.eh-news-cat {
+  color: var(--global-theme-color); // #1e3a8a light, #93a4ff dark
+  font-weight: 600;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
