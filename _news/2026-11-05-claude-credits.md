@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-Selected to receive $20,000 in Claude credits through the MIT&ndash;Anthropic AI for Science Study to support my research on physics-informed learning and transportation network resilience.
+Selected to receive **$20,000 in Claude credits** through the MIT&ndash;Anthropic AI for Science Study to support my research on physics-informed learning and transportation network resilience.
